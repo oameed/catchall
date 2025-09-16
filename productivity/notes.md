@@ -19,15 +19,64 @@
           sub-outline-color=1.0/0.0/0.0/0.75  
           sub-scale=1.5  
     
-    * **How to Run**  
+  * **How to Run**  
 
-      For Videos:  
+    For Videos:  
            
-          mpv .\<...>.m3u --shuffle --geometry=45%x38%  
+        mpv .\<...>.m3u --shuffle --geometry=45%x38%  
      
-      For Images:    
+    For Images:    
         
-          mpv .\<...>.m3u --shuffle --geometry=25%x45%  
+        mpv .\<...>.m3u --shuffle --geometry=25%x45%  
+
+* **_VLC_**  
+
+  * **Simple Settings**
+
+    * Interface  
+      
+      * Look and feel  
+        Start in minimal view mode  
+        Pause playback when minimized  
+        Show systray icon  
+        Resize interface to video size  
+        
+      * Privacy/Network Interaction  
+        Save recently played items  
+     
+    * Audio  
+           
+      * Volume  
+        Always request audio start level to  
+ 
+    * Subtitle/OSD  
+
+      * Subtitle Effects  
+        Font (e.g., “Cascadia Code”)  
+        Font Size (e.g., “Smaller”)  
+        Outline thickness (e.g., “none”)  
+        Add a background   
+        Subtitle Position (e.g., “-100 px”)  
+
+  * **All Settings**   
+
+    * Video
+
+      * General Video Settings  
+
+        Always on top
+        
+      * Subtitle/OSD
+
+        * Settings Related to OSD, subtitles and subpictures
+     
+          Autodetect subtitle files
+          Subtitle autodetection fuzziness (e.g., “1”)
+          
+        * Text Renderer  
+
+          text opacity (e.g., “158”)
+          Background opacity (e.g., “53”)
 
 * **_VSCode_**  
   
