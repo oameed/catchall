@@ -93,22 +93,20 @@
 
     2. Use `Ctrl + Shift + ~` to open a terminal in an open window 
 
-## Code Snippets
+## PowerShell Snippets
 
-* **_PowerShell_**  
-  
-  * **PowerShell's Execution Policy**  
+* **_Execution Policy_**  
     
-        Set-ExecutionPolicy Bypass -Scope Process -Force
+      Set-ExecutionPolicy Bypass -Scope Process -Force
     
-  * **PowerShell's History**  
+* **_History_**  
         
-        Set-PSReadLineOption -HistorySaveStyle SaveNothing # disable command history saving for the current session
+      Set-PSReadLineOption -HistorySaveStyle SaveNothing # disable command history saving for the current session
         
-        Clear-History                                      # clear existing command history
-        Remove-Item (Get-PSReadLineOption).HistorySavePath # clear existing command history
+      Clear-History                                      # clear existing command history
+      Remove-Item (Get-PSReadLineOption).HistorySavePath # clear existing command history
     
-  * **Removing Spaces from File Names**  
+* **_Removing Spaces from File Names_**  
     
-        Get-ChildItem -File | Rename-Item -NewName {$_.Name -replace ' ','_'}
+      Get-ChildItem -File | Rename-Item -NewName {$_.Name -replace ' ','_'}
 
