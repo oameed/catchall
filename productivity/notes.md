@@ -79,6 +79,10 @@
           Background opacity (e.g., “53”)
 
 * **_VSCode_**  
+
+  * **Disable Restricted Mode**  
+
+        "security.workspace.trust.enabled": false  
   
   * **VSCode as Terminal**  
     
