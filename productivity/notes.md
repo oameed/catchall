@@ -50,7 +50,9 @@
         Always request audio start level to  
  
     * Subtitle/OSD  
-
+      * On Screen Display  
+        show media ttitle on video start  
+        
       * Subtitle Effects  
         Font (e.g., “Cascadia Code”)  
         Font Size (e.g., “Smaller”)  
