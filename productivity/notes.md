@@ -62,23 +62,32 @@
 
   * **All Settings**   
 
+    * Inputs/Codecs  
+
+      * Settings for input, demultiplexing and encoding  
+
+        * Advanced  
+          Change title according to current media (e.g., $D)
+          
+    * Playlist  
+      
+      * General playlist behaviour  
+        play and pause
+      
     * Video
-
+ 
       * General Video Settings  
-
         Always on top
         
       * Subtitle/OSD
 
-        * Settings Related to OSD, subtitles and subpictures
-     
-          Autodetect subtitle files
-          Subtitle autodetection fuzziness (e.g., “1”)
+        * Settings Related to OSD, subtitles and subpictures  
+          Autodetect subtitle files  
+          Subtitle autodetection fuzziness (e.g., “1”)  
           
-        * Text Renderer  
-
-          text opacity (e.g., “158”)
-          Background opacity (e.g., “53”)
+        * Text Renderer    
+          text opacity (e.g., “158”)  
+          Background opacity (e.g., “53”)  
 
 * **_VSCode_**  
 
