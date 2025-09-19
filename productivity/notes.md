@@ -13,8 +13,10 @@
           no-border   
           ontop   
           volume=0  
-          autofit-larger=65%x65%
-          # dimensions can also be adjusted using "geometry"
+          autofit-larger=65%x65%  
+          autofit-smaller=35%x35%  
+          geometry=5%:15%  
+          force-window-position  
           image-display-duration=10   
           sub-auto=all  
           sub-bold=yes  
