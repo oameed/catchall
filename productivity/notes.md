@@ -13,6 +13,8 @@
           no-border   
           ontop   
           volume=0  
+          autofit-larger=65%x65%
+          # dimensions can also be adjusted using "geometry"
           image-display-duration=10   
           sub-auto=all  
           sub-bold=yes  
@@ -21,13 +23,7 @@
     
   * **How to Run**  
 
-    For Videos:  
-           
-        mpv .\<...>.m3u --shuffle --geometry=45%x38%  
-     
-    For Images:    
-        
-        mpv .\<...>.m3u --shuffle --geometry=25%x45%  
+        mpv .\<...>.m3u --shuffle
 
 * **_VLC_**  
 
