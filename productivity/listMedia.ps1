@@ -4,10 +4,11 @@
 ### by: Oameed Noakoasteen      ###
 ###################################
 
-param([Parameter(Mandatory=$true)][string  ]$root        ,
-      [Parameter(Mandatory=$true)][string[]]$dirs        ,
-      [Parameter(Mandatory=$true)][string  ]$pln         ,
-                                  [string  ]$vid = $false )
+param([Parameter(Mandatory=$true)][string  ]$root            ,
+      [Parameter(Mandatory=$true)][string[]]$dirs            ,
+      [Parameter(Mandatory=$true)][string  ]$pln             ,
+                                  [string  ]$vid     = $false,
+                                  [string  ]$shuffle = $false )
 
 $paths        = $dirs | ForEach-Object{$root + $_ }
 $paths        = @($paths)
@@ -24,7 +25,9 @@ for($i=0; $i -lt $paths.Length; $i++){
   $filenames += $fullfns
   }
 
-$filenames    = $filenames | Get-Random -Shuffle
+if ($shuffle -eq $true){
+  $filenames    = $filenames | Get-Random -Shuffle
+}
 
 echo $filenames > $pln
 
