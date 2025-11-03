@@ -13,6 +13,7 @@
           no-border   
           ontop   
           volume=0  
+          shuffle
           autofit-larger=65%x65%  
           autofit-smaller=35%x35%  
           geometry=5%:15%  

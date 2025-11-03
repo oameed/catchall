@@ -23,4 +23,6 @@ rm $fns_input
 
 # root
 # |
+# |--- <directory containing all images>
+# |
 # |--- convertHEICtoJPG.ps1

@@ -23,4 +23,6 @@ rm $fns_input
 
 # root
 # |
+# |--- <directory containing all videos>
+# |
 # |--- convertMOVtoMP4.ps1
