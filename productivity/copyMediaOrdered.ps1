@@ -7,13 +7,14 @@
 param([Parameter(Mandatory=$true)][string]$pln,
       [Parameter(Mandatory=$true)][string]$dir )
 
+$digits    = 4
 $media     = Get-Content $pln
 
 $media_ext = $media | Foreach-Object {Split-Path $_ -Extension}
 $media_ext = @($media_ext)
 
 for($i=0; $i -lt $media.Length; $i++){
-  Copy-Item -LiteralPath $media[$i] ($dir+'\'+$i+$media_ext[$i])
+  Copy-Item -LiteralPath $media[$i] ($dir + '\' + ([string]$i).PadLeft($digits,'0') + $media_ext[$i])
 }
 
 
