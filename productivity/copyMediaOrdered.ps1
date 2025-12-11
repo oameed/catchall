@@ -4,10 +4,10 @@
 ### by: Oameed Noakoasteen      ###
 ###################################
 
-param([Parameter(Mandatory=$true)][string]$pln,
-      [Parameter(Mandatory=$true)][string]$dir )
+param([Parameter(Mandatory=$true)][string]$pln       ,
+      [Parameter(Mandatory=$true)][string]$dir       ,
+                                  [int   ]$digits = 4 )
 
-$digits    = 4
 $media     = Get-Content $pln
 
 $media_ext = $media | Foreach-Object {Split-Path $_ -Extension}
