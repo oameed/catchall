@@ -47,10 +47,11 @@ def main():
   
   with open(filename, "w") as fobj:
     for item in list_global:
-      fobj.write('['+item[1]+']'+'('+item[0]+item[1]+')'+'  '+'\n')
+      fobj.write('['+item[1]+']'+'('+item[0]+item[1]+')'+'  '+'\n'+'\n')
 
 if __name__ == "__main__":
   main()
 
 
 # python compileDIRtoLink.py -root <full-path-to-the-root> -dict <full-path-to-the-json-file> -fn <name-of-the-output-file>
+# recommendation: if using WSL, place the json file at the same location as this script
