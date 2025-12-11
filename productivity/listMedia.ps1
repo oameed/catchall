@@ -19,7 +19,7 @@ for($i=0; $i -lt $paths.Length; $i++){
     $fns      = Get-ChildItem  -LiteralPath $paths[$i] -Recurse -Name -File -Filter  *.mp4
   } 
   else {
-    $fns      = Get-ChildItem  -LiteralPath $paths[$i] -Recurse -Name -File -Exclude *.srt,*.json 
+    $fns      = Get-ChildItem  -LiteralPath $paths[$i] -Recurse -Name -File -Exclude *.srt,*.json,*.md 
   }
   $fullfns    = $fns | ForEach-Object{$paths[$i] + $_ }
   $filenames += $fullfns
