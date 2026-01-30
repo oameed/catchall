@@ -155,6 +155,11 @@
 
 * [**_The Foreign Vocabulary of the Quran_**](https://brill.com/display/title/13028)  
 
+## Conferences and Workshops
+
+* [**_Achaemenid Workshops (AchWorks)_**](https://pourdavoud.ucla.edu/research/achaemenid-workshops/)  
+  [**_The Pourdavoud Institute_**](https://pourdavoud.ucla.edu/)  
+
 ## Research
 
 * **_The Near East at the Dawn of Persia_**<br/><br/>
