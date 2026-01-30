@@ -203,7 +203,7 @@
 [[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9781118785539) 2015. Stausberg. _The Wiley Blackwell Companion to Zoroastrianism_  
 [[view]](https://utpress.utexas.edu/9780292747678/) 2012. Forrest. _Witches, Whores, and Sorcerers The Concept of Evil in Early Iran_  
 [view] 1992. Boyce. _Zoroastrianism. Its Antiquity and Constant Vigour_  
-[[view]](https://www.upress.umn.edu/book-division/books/an-introduction-to-ancient-iranian-religion) 1983. Malandra. _An Introduction to Ancient Iranian Religion_  
+[[view]](https://www.upress.umn.edu/9780816611157/an-introduction-to-ancient-iranian-religion/) 1983. Malandra. _An Introduction to Ancient Iranian Religion_  
 [view] 1977. Boyce. _A Persian Stronghold of Zoroastrianism_  
 [view] 1961. Zaehner. _The Dawn and Twilight of Zoroastrianism_  
 [view] 1955. Zaehner. _Zurvan A Zoroastrian Dilemma_  
