@@ -301,7 +301,7 @@
   [[view]](https://global.oup.com/academic/product/jews-and-samaritans-9780190068790?cc=us&lang=en&) 2013. Knoppers. _Jews and Samaritans The Origins and History of Their Early Relations_  
   [[view]](https://brill.com/display/title/15593) 2009. Kartveit. _The Origin of the Samaritans_  
   [[view]](https://www.harpercollins.com/products/the-bible-with-sources-revealed-richard-elliott-friedman?variant=32207487926306) 2005. Friedman. _The Bible with Sources Revealed_  
-  [[view]](https://www.eerdmans.com/Products/3972/the-early-history-of-god.aspx) 2002. Smith. _The Early History of God Yahweh and the Other Deities in Ancient Israel_  
+  [view] 2002. Smith. _The Early History of God Yahweh and the Other Deities in Ancient Israel_  
   [[view]](https://global.oup.com/academic/product/the-origins-of-biblical-monotheism-9780195167689?cc=us&lang=en&) 2001. Smith. _The Origins of Biblical Monotheism Israel's Polytheistic Background and the Ugaritic Texts_  
   [[view]](https://www.bloomsbury.com/us/samaritans-and-early-judaism-9780567260468/) 2000. Hjelm. _The Samaritans and Early Judaism A Literary Analysis_  
   [[view]](https://www.simonandschuster.com/books/Who-Wrote-the-Bible/Richard-Friedman/9781501192401) 1997. Friedman. _Who Wrote the Bible_  
