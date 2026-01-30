@@ -35,18 +35,18 @@
 
 ## Journals
 
-* [**_Bulletin of SOAS_**](https://www.soas.ac.uk/research/publications/soas-journals-and-books/bulletin-soas)  
+* [**_Bulletin of SOAS_**](https://www.cambridge.org/core/journals/bulletin-of-the-school-of-oriental-and-african-studies)  
   **_School of Oriental and African Studies (SOAS) University of London_**  
 * [**_Iran Journal_**](https://www.bips.ac.uk/iran-journal/)  
   **_The British Academy_**, [_The British Institute of Persian Studies (BIPS)_](https://www.bips.ac.uk/)  
 * [**_Journal of Near Eastern Studies (JNES)_**](https://isac.uchicago.edu/research/journal-near-eastern-studies)  
   **_The University of Chicago_**, [_Institute for the Study of Ancient Cultures (ISAC)_](https://isac.uchicago.edu/)  
-* [**_Journal of the American Oriental Society (JAOS)_**](https://www.aos-site.org/content.aspx?page_id=22&club_id=510948&module_id=527823)  
-  **_Yale University_**, [_American Oriental Society_](https://www.aos-site.org/)  
+* [**_Journal of the American Society for Premodern Asia (JASPA)_**](https://aspa1842.org/content.aspx?page_id=22&club_id=510948&module_id=527823)  
+  **_Yale University_**, [_American Society for Premodern Asia_](https://aspa1842.org/)  
 * [**_Iranian Studies_**](https://www.cambridge.org/core/journals/iranian-studies)  
   [**_Association for Iranian Studies_**](https://associationforiranianstudies.org/)  
 * [**_Studia Iranica_**](https://poj.peeters-leuven.be/content.php?url=journal&journal_code=SI)  
-  [**_l’Association pour l’Avancement des études iraniennes_**](https://studiairanica.com/)  
+   **_l’Association pour l’Avancement des études iraniennes_**  
 * [**_Abstracta Iranica_**](https://journals.openedition.org/abstractairanica/)  
   [**_Institut Français de Recherche en Iran_**](https://ifriran.org/)  
   
