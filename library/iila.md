@@ -141,6 +141,8 @@
 * [**_Achemenet_**](http://www.achemenet.com/en/)  
   [**_The Oriental Institute Achemenet Project_**](https://isac.uchicago.edu/research/projects/oriental-institute-achemenet-project)  
 
+* [**_parthia.com_**](https://www.parthia.com/)  
+
 * [**_Encyclopaedia Iranica_**](https://www.iranicaonline.org/)  
 
 * **_The Cambridge History of Iran_**  
