@@ -223,7 +223,7 @@
     [[view]](https://global.oup.com/academic/product/the-new-oxford-annotated-bible-with-apocrypha-9780190276072?cc=us&lang=en&) _The Bible_ [[KJV Bible]](https://www.kingjamesbibleonline.org/)<br/><br/>
     [[view]](https://www.harpercollins.com/products/how-jesus-became-god-bart-d-ehrman?variant=32122265632802) 2014. Ehrman. _How Jesus Became God The Exaltation of a Jewish Preacher from Galilee_  
     [[view]](https://www.wiley.com/en-ie/The+Rise+of+Western+Christendom:+Triumph+and+Diversity,+A+D+200+1000,+10th+Anniversary+Revised+Edition-p-9781118301265) 2013. Brown. _The Rise of Western Christendom_  
-    [[view]](https://www.eerdmans.com/Products/3223/the-scepter-and-the-star.aspx) 2010. Collins. _The Scepter and the Star Messianism in Light of the Dead Sea Scrolls_  
+    [[view]](https://www.eerdmans.com/9781467466776/the-scepter-and-the-star/) 2010. Collins. _The Scepter and the Star Messianism in Light of the Dead Sea Scrolls_  
     [[view]](https://www.harpercollins.com/products/misquoting-jesus-bart-d-ehrman?variant=32123366801442) 2005. Ehrman. _Misquoting Jesus The History Behind the Bible_  
     [[view]](https://global.oup.com/academic/product/lost-christianities-9780195182491?cc=us&lang=en&) 2003. Ehrman. _The Lost Christianities The Battles for Scripture and the Faiths We Never Knew_  
     [[view]](https://global.oup.com/ushe/product/christianity-in-late-antiquity-300-450-ce-9780195154610?cc=us&lang=en&) 2003. Ehrman. _Christianity in Late Antiquity, 300-450 C.E._  
