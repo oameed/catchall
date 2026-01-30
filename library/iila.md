@@ -244,7 +244,7 @@
   
   * _The Arabs/Muslims_<br/><br/>
     [[view]](https://global.oup.com/academic/product/the-quran-9780199535958?cc=us&lang=en&) _The Quran_ [[quran.com]](https://quran.com/)  
-    [[view]](https://global.oup.com/academic/product/the-life-of-muhammad-9780196360331?cc=us&lang=en&) 2002. Guillaume. _Ibn Ishaq's The Life of Muhammad_
+    [view] 2002. Guillaume. _Ibn Ishaq's The Life of Muhammad_
     
     **_The Sacred Books and Early Literature of the East_**  
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/YwsOAAAAIAAJ?hl=en) Volume 5: _Ancient Arabia: The Hanged Poems, The Koran_ (Horne, 1917)  
