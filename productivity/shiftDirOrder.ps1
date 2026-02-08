@@ -22,7 +22,7 @@ $index = $ord[$i]
 $dn   += ([string]$index).PadLeft($digits,'0') + ' ' + $drn[$i]
 }
 
-for($i=0; $i -lt $dir.Length; $i++){
+for($i=$dir.Length-1; $i -ge 0; $i--){
 mv $dir[$i] $dn[$i]
 }
 
