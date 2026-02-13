@@ -6,6 +6,8 @@
 
 import subprocess
 
+import pdb
+
 def get_sorted_list(LIST):
   tmp        = [x[1] for x in LIST]
   tmp_sorted = sorted(tmp, key=str.lower)
@@ -39,15 +41,16 @@ def main():
   
   for dn in dir_names:
     prefix      = name_dict[dn]
-    names       = get_dir_names(root+"\\"+dn)
-    list_local  = [(prefix, name) for name in names]
+    path        = root+"\\"+dn
+    names       = get_dir_names(path)
+    list_local  = [(prefix, name, path) for name in names]
     list_global = list_global + list_local
   
   list_global = get_sorted_list(list_global)
   
   with open(filename, "w") as fobj:
     for item in list_global:
-      fobj.write('['+item[1]+']'+'('+item[0]+item[1]+')'+'  '+'\n'+'\n')
+      fobj.write('['+item[1]+']'+'('+item[0]+item[1]+')'+' '+'<'+'a'+' '+'href'+'='+'"'+'file:///'+item[2]+'\\'+item[1]+'"'+'>'+'[view]'+'</a>'+'  '+'\n'+'\n')
 
 if __name__ == "__main__":
   main()
