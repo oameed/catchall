@@ -4,7 +4,7 @@
 ### by: Oameed Noakoasteen                              ###
 ###########################################################
 
-$fns_input         = Get-ChildItem  ".\"  -Recurse -Name -File -Filter *.heic
+$fns_input         = Get-ChildItem  "\"  -Recurse -Name -File -Filter *.heic
 $fns_input         = @($fns_input)
 
 $fns_output_parent = $fns_input | Foreach-Object {Split-Path $_ -Parent  }
