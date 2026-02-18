@@ -4,7 +4,9 @@
 ### by: Oameed Noakoasteen                        ###
 #####################################################
 
-$fns_input         = Get-ChildItem  "\"  -Recurse -Name -File -Filter *.MOV
+$path              = ".\"
+
+$fns_input         = Get-ChildItem $path -Recurse -Name -File -Filter *.MOV
 $fns_input         = @($fns_input)
 
 $fns_output_parent = $fns_input | Foreach-Object {Split-Path $_ -Parent  }
