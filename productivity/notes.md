@@ -20,7 +20,7 @@
           sub-auto=all  
           sub-bold=yes  
           sub-outline-color=1.0/0.0/0.0/0.75  
-          sub-scale=1.5  
+          sub-scale=0.75  
     
   * **How to Run**  
 
