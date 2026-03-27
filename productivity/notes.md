@@ -34,9 +34,10 @@
       
       * Look and feel  
         Start in minimal view mode  
-        Pause playback when minimized  
         Show systray icon  
         Resize interface to video size  
+        Pause playback when minimized  
+        Use a dark pallette  
         
       * Privacy/Network Interaction  
         Save recently played items  
