@@ -16,7 +16,7 @@ $paths        = @($paths)
 $filenames    = @()
 for($i=0; $i -lt $paths.Length; $i++){
   if ($vid -eq $true){
-    $fns      = Get-ChildItem  -LiteralPath $paths[$i] -Recurse -Name -File -Filter  *.mp4
+    $fns      = Get-ChildItem  -LiteralPath $paths[$i] -Recurse -Name -File -Include *.mp4,*.mov
   } 
   else {
     $fns      = Get-ChildItem  -LiteralPath $paths[$i] -Recurse -Name -File -Exclude *.srt,*.json,*.md 

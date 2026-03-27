@@ -1,3 +1,9 @@
+################################################
+### My Productivity Scripts                  ###
+### Shift Numeric Designation of Directories ### 
+### by: Oameed Noakoasteen                   ###
+################################################
+
 param([Parameter(Mandatory=$true)][string]$itm       ,
       [Parameter(Mandatory=$true)][int   ]$stt       ,
                                   [int   ]$digits = 3 )
