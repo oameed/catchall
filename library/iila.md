@@ -49,7 +49,12 @@
    **_l’Association pour l’Avancement des études iraniennes_**  
 * [**_Abstracta Iranica_**](https://journals.openedition.org/abstractairanica/)  
   [**_Institut Français de Recherche en Iran_**](https://ifriran.org/)  
-  
+
+## Conferences and Workshops
+
+* [**_Achaemenid Workshops (AchWorks)_**](https://pourdavoud.ucla.edu/research/achaemenid-workshops/)  
+  [**_The Pourdavoud Institute_**](https://pourdavoud.ucla.edu/)  
+
 ## Primary Sources
 
 * **_Texts_**  
@@ -156,11 +161,6 @@
 [_Volume 7: From Nadir Shah to the Islamic Republic_](https://www.cambridge.org/core/books/cambridge-history-of-iran/5C8E0F5F76CDA01CFBC1505F1612CD48)
 
 * [**_The Foreign Vocabulary of the Quran_**](https://brill.com/display/title/13028)  
-
-## Conferences and Workshops
-
-* [**_Achaemenid Workshops (AchWorks)_**](https://pourdavoud.ucla.edu/research/achaemenid-workshops/)  
-  [**_The Pourdavoud Institute_**](https://pourdavoud.ucla.edu/)  
 
 ## Research
 

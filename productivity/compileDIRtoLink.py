@@ -6,8 +6,6 @@
 
 import subprocess
 
-import pdb
-
 def get_sorted_list(LIST):
   tmp        = [x[1] for x in LIST]
   tmp_sorted = sorted(tmp, key=str.lower)
