@@ -45,5 +45,5 @@
      [[view]](https://www.press.jhu.edu/books/title/3380/myth-birth-hero) 1909. Rank. _The Myth of the Birth of the Hero_  
      [[view]](https://wwnorton.com/books/9780393305746) 1907. Rank. _Art and Artist_  
 
-## [Iran in Late Antiquity](lrhi.md)  
+## [Iran in Late Antiquity](iila.md)  
 
