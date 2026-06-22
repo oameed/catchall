@@ -86,7 +86,8 @@
   * **_Histories_**<br/><br/>
     [[view]](https://brill.com/display/title/15559) 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
     [[view]](https://sunypress.edu/Books/S/Set-History-of-al-abari) 2007. Yarshater. _History of Al-Tabari_  
-    [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/) 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[ganjoor.net]](https://ganjoor.net/ferdousi/shahname) [[wikishahnameh.com]](https://wikishahnameh.com/) [[ketab.cafe]](https://ketab.cafe/ferdowsi/)    
+    [[view]](https://www.penguinrandomhouse.com/books/297267/shahnameh-by-abolqasem-ferdowsi-translated-by-dick-davis-foreword-by-azar-nafisi/9781440649660/) 2006. Davis. _Ferdowsi's Shahnameh: The Persian Book of Kings_ [[ganjoor.net]](https://ganjoor.net/ferdousi/shahname) [[wikishahnameh.com]](https://wikishahnameh.com/)  
+    [view] 1938. Yaghmai. _Asadi Tusi's Garshasbnameh_ [[ganjoor.net]](https://ganjoor.net/asadi/garshaspname)  
 
 * **_Royal Inscriptions & Tablets_**  
 
