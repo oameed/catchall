@@ -7,7 +7,7 @@ import argparse
 
 def wFILE(filename, dataframe):
     with open(filename, 'w') as fobj:
-        fobj.write(dataframe.to_string(index = False))
+        fobj.write(dataframe.to_string())
 
 def get_get_dividend_paying(symbols,info):
     divrate = [x.get('dividendRate') for x in info] 
@@ -17,7 +17,7 @@ def get_get_dividend_paying(symbols,info):
 def main():
     parser        = argparse.ArgumentParser()
     parser.add_argument('-n', type = str  , required = True)
-    parser.add_argument('-r', type = float, default  = 100 )
+    parser.add_argument('-r', type = float, default  = 10  )
     args          = parser.parse_args()
     
     symbols       = pd.read_csv(args.n, header = None)[0].tolist()
@@ -35,13 +35,17 @@ def main():
     symbols       = [symbols     [i] for i in indices] 
     funds_needed  = [funds_needed[i] for i in indices]
     num_stocks    = [num_stocks  [i] for i in indices]
+    price         = [price       [i] for i in indices]
+    dividends     = [dividends   [i] for i in indices]
     
     dataframe     = {'symbols'     : symbols     ,
                      'funds_needed': funds_needed,
-                     'num_stocks'  : num_stocks   }
+                     'num_stocks'  : num_stocks  ,
+                     'price'       : price       ,
+                     'dividends'   : dividends    }
     dataframe     = pd.DataFrame(dataframe)
     
-    wFILE('list' + '.txt', dataframe)
+    wFILE('list' + '_' + str(args.r)+ '_' + 'USD' + '.txt', dataframe)
     
 
 if __name__ == "__main__":
