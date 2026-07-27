@@ -22,33 +22,41 @@ def split_symbols(symbols):
     return symbolsEQUITY, symbolsETF
 
 def remove_young(symbols,params):
-    age = [params[0][0] - yf.Ticker(x).history(period = 'max')['Open'].keys()[0].year for x in symbols]
-    return [x for i,x in enumerate(symbols) if age[i] > params[0][1]]
+    if len(symbols) > 0:
+        age     = [params[0][0] - yf.Ticker(x).history(period = 'max')['Open'].keys()[0].year for x in symbols]
+        symbols = [x for i,x in enumerate(symbols) if age[i] > params[0][1]]
+    else:
+        symbols = []
+    return symbols
 
 def get_valuations(symbols):
-    info      = [yf.Ticker(x).get_valuation_measures()['Current'].to_dict() for x in symbols]
-    PE        = [x['Trailing P/E'] for x in info]
-    PB        = [x['Price/Book'  ] for x in info]
-    PS        = [x['Price/Sales' ] for x in info]
-    info      = [yf.Ticker(x).get_info() for x in symbols]
-    sector    = [x['sectorDisp'  ] for x in info]
-    industry  = [x['industryDisp'] for x in info]
-    indices   = np.argsort(PE).tolist()
-    symbols   = [symbols [i] for i in indices]
-    PE        = [PE      [i] for i in indices]
-    PB        = [PB      [i] for i in indices]
-    PS        = [PS      [i] for i in indices]
-    sector    = [sector  [i] for i in indices]
-    industry  = [industry[i] for i in indices]
-    dataframe = {'Symbols' : symbols ,
-                 'P/E'     : PE      ,
-                 'P/B'     : PB      ,
-                 'P/S'     : PS      ,
-                 'sector'  : sector  ,
-                 'industry': industry }
-    dataframe = pd.DataFrame(dataframe)
-    filename  = 'valuation_measures' + '.txt'
-    wFILE(filename, dataframe.to_string(index = False, na_rep = '-')) 
+    if len(symbols) > 0:
+        info      = [yf.Ticker(x).get_valuation_measures()['Current'].to_dict() for x in symbols]
+        PE        = [x['Trailing P/E'] for x in info]
+        PB        = [x['Price/Book'  ] for x in info]
+        PS        = [x['Price/Sales' ] for x in info]
+        info      = [yf.Ticker(x).get_info() for x in symbols]
+        name      = [x['longName'    ] for x in info]
+        sector    = [x['sectorDisp'  ] for x in info]
+        industry  = [x['industryDisp'] for x in info]
+        indices   = np.argsort(PE).tolist()
+        symbols   = [symbols [i] for i in indices]
+        PE        = [PE      [i] for i in indices]
+        PB        = [PB      [i] for i in indices]
+        PS        = [PS      [i] for i in indices]
+        name      = [name    [i] for i in indices]
+        sector    = [sector  [i] for i in indices]
+        industry  = [industry[i] for i in indices]
+        dataframe = {'Symbols' : symbols ,
+                     'P/E'     : PE      ,
+                     'P/B'     : PB      ,
+                     'P/S'     : PS      ,
+                    'name'    : name    ,  
+                    'sector'  : sector  ,
+                    'industry': industry }
+        dataframe = pd.DataFrame(dataframe)
+        filename  = 'valuation_measures' + '.txt'
+        wFILE(filename, dataframe.to_string(index = False, na_rep = '-')) 
 
 def get_dividend_table(symbols,params):
     def get_key_value(dict,key):
@@ -62,6 +70,7 @@ def get_dividend_table(symbols,params):
     symbols   = [symbols[i] for i in indices]
     info      = [info   [i] for i in indices]
     ETF       = [x['quoteType'         ] if x['quoteType'] == 'ETF' else None for x in info ]
+    name      = [x['shortName'         ] for x in info]
     sector    = [get_key_value(x,'sector'  ) for x in info]
     industry  = [get_key_value(x,'industry') for x in info]
     Price     = [x['regularMarketPrice'] for x in info]
@@ -76,6 +85,7 @@ def get_dividend_table(symbols,params):
     NumStock  = [NumStock[i] for i in indices]
     Price     = [Price   [i] for i in indices]
     Dividend  = [Dividend[i] for i in indices]
+    name      = [name    [i] for i in indices]
     sector    = [sector  [i] for i in indices]
     industry  = [industry[i] for i in indices]
     dataframe = {'Symbol'  : symbols ,
@@ -84,6 +94,7 @@ def get_dividend_table(symbols,params):
                  'NumStock': NumStock,
                  'Price'   : Price   ,
                  'Dividend': Dividend,
+                 'Name'    : name    ,
                  'Sector'  : sector  ,
                  'Industry': industry }
     dataframe = pd.DataFrame(dataframe)
@@ -111,12 +122,10 @@ def main():
     params, symbols           = initialize_run()
     
     symbolsEQUITY, symbolsETF = split_symbols(symbols)
-    if len(symbolsEQUITY) > 0:
-        symbolsEQUITY         = remove_young(symbolsEQUITY,params)
+    symbolsEQUITY             = remove_young(symbolsEQUITY,params)
     symbols                   = symbolsEQUITY + symbolsETF
     
-    if len(symbolsEQUITY) > 0:
-        get_valuations(symbolsEQUITY)
+    get_valuations(symbolsEQUITY)
     
     get_dividend_table(symbols,params)
     
