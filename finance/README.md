@@ -16,7 +16,7 @@
 
 * **Tutorials**  
 
-  [[view]](https://youtube.com/playlist?list=PLykIL_1_MFWmS82OuK8CBCow_QHUJuBes&si=Oxwcg6BrN_BbIFMn) 2013. Dalio. _How The Economic Machine Works_    
+  [[view]](https://www.youtube.com/playlist?list=PLykIL_1_MFWmS82OuK8CBCow_QHUJuBes) 2013. Dalio. _How The Economic Machine Works_    
 
 * **Resources**  
 
