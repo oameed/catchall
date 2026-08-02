@@ -1,36 +1,50 @@
 
 ## [Computing Basics](https://archive.org/details/computing-basics)  
 
-## App Configuration
 
-* **_MPV_**  
+## App Configurations
 
-  * **MPV's `portable_config` Directory**  
+* [**MPV Media Player**](https://mpv.io/)  
+
+  * **To Play a Playlist**  
+        
+        mpv .\<filename> --shuffle
+
+  * **To Configure**  
     
-    * **`mpv.conf`**  
+    1. Create the `portable_config` directory in MPV's main directory.  
+    
+    2. Create/Edit the `mpv.conf` file and add the following:  
+       
+           no-osc  
+           
+           no-border   
+           
+           ontop   
+           
+           volume=0  
+           
+           geometry=5%:15%  
           
-          no-osc  
-          no-border   
-          ontop   
-          volume=0  
-          autofit-larger=65%x65%  
-          autofit-smaller=35%x35%  
-          geometry=5%:15%  
-          image-display-duration=10   
-          sub-auto=all  
-          sub-bold=yes  
-          sub-outline-color=1.0/0.0/0.0/0.75  
-          sub-scale=0.75  
+           image-display-duration=10   
+           
+           autofit-larger=65%x65%  
+           
+           autofit-smaller=35%x35%  
+           
+           sub-auto=all  
+           
+           sub-bold=yes  
+           
+           sub-outline-color=1.0/0.0/0.0/0.75  
+           
+           sub-scale=0.75  
     
-  * **How to Run**  
-
-        mpv .\<...>.m3u --shuffle
-
-* **_VLC_**  
+* [**VLC Media Player**](https://www.videolan.org/)  
 
   * **Simple Settings**
 
-    * Interface  
+    * **Interface**  
       
       * Look and feel  
         Start in minimal view mode  
@@ -42,12 +56,12 @@
       * Privacy/Network Interaction  
         Save recently played items  
      
-    * Audio  
+    * **Audio**  
            
       * Volume  
         Always request audio start level to  
  
-    * Subtitle/OSD  
+    * **Subtitle/OSD**  
       * On Screen Display  
         show media ttitle on video start  
         
@@ -60,19 +74,19 @@
 
   * **All Settings**   
 
-    * Inputs/Codecs  
+    * **Inputs/Codecs**  
 
       * Settings for input, demultiplexing and encoding  
 
         * Advanced  
           Change title according to current media (e.g., $D)
           
-    * Playlist  
+    * **Playlist**  
       
       * General playlist behaviour  
         play and pause
       
-    * Video
+    * **Video**
  
       * General Video Settings  
         Always on top
@@ -87,35 +101,32 @@
           text opacity (e.g., “158”)  
           Background opacity (e.g., “53”)  
 
-* **_VSCode_**  
+* [**Visual Studio Code**](https://code.visualstudio.com/)
 
-  * **Disable Restricted Mode**  
-
-        "security.workspace.trust.enabled": false  
-  
   * **VSCode as Terminal**  
     
-    1. In `User Settings (JSON)` add the following:
-       
+    1. In `User Settings (JSON)` add the following:  
+        
            "workbench.panel.opensMaximized": "always"  
+         
            "terminal.integrated.env.windows":{"PSExecutionPolicyPreference":"Bypass"}      
 
-    2. Use `Ctrl + Shift + ~` to open a terminal in an open window 
+      2. Use `Ctrl + Shift + ~` to open a terminal in an open window 
 
-## PowerShell Snippets
+  * **Disable Restricted Mode**  
+    
+        "security.workspace.trust.enabled": false  
 
-* **_Execution Policy_**  
+
+## Snippets
+
+* [**PowerShell**](https://learn.microsoft.com/en-us/powershell/)  
+
+  * **_Execution Policy_**  
     
-      Set-ExecutionPolicy Bypass -Scope Process -Force
+        Set-ExecutionPolicy Bypass -Scope Process -Force
     
-* **_History_**  
-        
-      Set-PSReadLineOption -HistorySaveStyle SaveNothing # disable command history saving for the current session
-        
-      Clear-History                                      # clear existing command history
-      Remove-Item (Get-PSReadLineOption).HistorySavePath # clear existing command history
+  * **_Removing Spaces from File Names_**  
     
-* **_Removing Spaces from File Names_**  
-    
-      Get-ChildItem -File | Rename-Item -NewName {$_.Name -replace ' ','_'}
+        Get-ChildItem -File | Rename-Item -NewName {$_.Name -replace ' ','_'}
 
