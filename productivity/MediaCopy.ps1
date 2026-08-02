@@ -11,9 +11,9 @@ param([Parameter(Mandatory=$true)][string]$pln             ,
 
 $media     = Get-Content $pln
 
-$leaf      = $media | Foreach-Object {Split-Path -LiteralPath $_ -Leaf     }
-$stem      = $media | Foreach-Object {Split-Path -LiteralPath $_ -LeafBase }
-$extension = $media | Foreach-Object {Split-Path -LiteralPath $_ -Extension}
+$leaf      = $media | Foreach-Object {Split-Path -Path $_ -Leaf     }
+$stem      = $media | Foreach-Object {Split-Path -Path $_ -LeafBase }
+$extension = $media | Foreach-Object {Split-Path -Path $_ -Extension}
 
 
 if ($ordered -eq $true)
