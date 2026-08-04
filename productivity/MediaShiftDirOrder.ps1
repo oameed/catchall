@@ -1,44 +1,43 @@
-################################################
-### My Productivity Scripts                  ###
-### Shift Numeric Designation of Directories ### 
-### by: Oameed Noakoasteen                   ###
-################################################
+###################################
+### My Productivity Scripts     ###
+### Shift Media Directory Order ### 
+### by: Oameed Noakoasteen      ###
+###################################
 
-param([Parameter(Mandatory=$true)][string]$itm       ,
-      [Parameter(Mandatory=$true)][int   ]$stt       ,
-                                  [int   ]$digits = 3 )
+param([Parameter(Mandatory=$true)][string]$itm            ,
+      [Parameter(Mandatory=$true)][int   ]$stt            ,
+                                  [string]$up     = $false,
+                                  [int   ]$digits = 3      )
 
-$dir = Get-ChildItem -Name -Directory
-$idx = $dir.IndexOf($itm)
+$directories = Get-ChildItem -Name -Directory
 
-if ($idx -eq -1){
-Write-Host "$itm NOT FOUND !!!"
-exit
-} 
-else {
-$dir = $dir[$idx .. ($dir.Length-1)]
-$ord = @(0 .. ($dir.Length-1))
-$ord = $ord | ForEach-Object {$_ + $stt}
+$index       = $directories.IndexOf($itm)
+if ($index -eq -1)
+{
+      Write-Host "$itm NOT FOUND !!!"
+      exit
+}
+else
+{
+      $directories = $directories[$index .. ($directories.Length - 1)]
+      $dirnames    = $directories | ForEach-Object{$_.Split(' ')[1 .. $($_.Length - 1)] -join ' '}
+      $dirnames    = 0 .. ($directories.Length - 1) | ForEach-Object{([string]($_ + $stt)).PadLeft($digits,'0') +  ' ' + $dirnames[$_]}
 
-$drn = $dir | ForEach-Object{$_.Split(' ')[1 .. $($_.Length-1)] -join ' '}
+      if ($up -eq $true)
+      {
+            $indices = 0 .. ($dirnames.Length - 1)
+      }
+      else
+      {
+            $indices = ($dirnames.Length - 1) .. 0
+      }
 
-$dn  = @()
-for($i=0; $i -lt $drn.Length; $i++){
-$index = $ord[$i]
-$dn   += ([string]$index).PadLeft($digits,'0') + ' ' + $drn[$i]
+      foreach ($i in $indices)
+      {
+            mv $directories[$i] $dirnames[$i]
+      }
+
 }
 
-for($i=$dir.Length-1; $i -ge 0; $i--){
-mv $dir[$i] $dn[$i]
-}
 
-}
-
-
-# root
-# |
-# |--- <directories>
-# |
-# |--- shiftDirOrder.ps1 
-# 
 # .\shiftDirOrder.ps1 -itm <original directory name> -stt <start value for new numbering>

@@ -1,8 +1,8 @@
-###############################
-### My Productivity Scripts ###
-### Copy Media              ### 
-### by: Oameed Noakoasteen  ###
-###############################
+###################################
+### My Productivity Scripts     ###
+### Copy Media                  ### 
+### by: Oameed Noakoasteen      ###
+###################################
 
 param([Parameter(Mandatory=$true)][string]$pln             ,
       [Parameter(Mandatory=$true)][string]$dir             ,

@@ -1,10 +1,10 @@
-###############################
-### My Productivity Scripts ###
-### Convert Media           ###
-###     X to JPG            ###
-###     X to MP4            ### 
-### by: Oameed Noakoasteen  ###
-###############################
+###################################
+### My Productivity Scripts     ###
+### Convert Media               ###
+###     X to JPG                ###
+###     X to MP4                ### 
+### by: Oameed Noakoasteen      ###
+###################################
 
 param([Parameter(Mandatory=$true)][string]$m)
 
