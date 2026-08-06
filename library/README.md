@@ -7,6 +7,8 @@
 [**For the Coffee Table**](#for-the-coffee-table)  
 
 
+---
+
 ## <a id="the-canon"></a>The Canon  
 
 * **_Nietzsche_**  
