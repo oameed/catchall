@@ -1,15 +1,25 @@
 # My Library
 
+[**For the Coffee Table**](#for-the-coffee-table)  
+
+[**Persian Literature**](#persian-literature)  
+
 [**The Canon**](#the-canon)  
 
 [**Literary Theory**](#literary-theory)  
 
-[**Persian Literature**](#persian-literature)  
-
-[**For the Coffee Table**](#for-the-coffee-table)  
-
 
 ---
+
+
+## <a id="for-the-coffee-table"></a>For the Coffee Table  
+
+[[view]](https://www.dummies.com/book/business-careers-money/personal-finance/investing/investment-vehicles/stocks/stock-investing-for-dummies-6th-edition-282608/) 2020. Mladjenovic. _Stock investing for dummies_. 6th Edition  
+[[view]](https://www.dummies.com/book/business-careers-money/personal-finance/investing/general-investing/high-level-investing-for-dummies-282274/) 2015. Mladjenovic. _High Level Investing For Dummies_  
+
+## <a id="persian-literature"></a>Persian Literature  
+
+[[view]](https://www.penguinrandomhouse.com/books/301759/vis-and-ramin-by-fakhraddin-gorgani/) 2009. Davis. _Gorgani's Vis and Ramin_ [[ganjoor.net]](https://ganjoor.net/asad/veysoramin) 
 
 
 ## <a id="the-canon"></a>The Canon  
@@ -62,13 +72,5 @@
 [[view]](https://english.yale.edu/publications/anxiety-influence-theory-poetry) 1973. Bloom. _The anxiety of influence_  
 [[view]](https://www.press.jhu.edu/books/title/3380/myth-birth-hero) 1909. Rank. _The Myth of the Birth of the Hero_  
 [[view]](https://wwnorton.com/books/9780393305746) 1907. Rank. _Art and Artist_  
-
-
-## <a id="persian-literature"></a>Persian Literature  
-
-[[view]](https://www.penguinrandomhouse.com/books/301759/vis-and-ramin-by-fakhraddin-gorgani/) 2009. Davis. _Gorgani's Vis and Ramin_ [[ganjoor.net]](https://ganjoor.net/asad/veysoramin)  
-
-## <a id="for-the-coffee-table"></a>For the Coffee Table  
-
 
 
