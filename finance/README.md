@@ -1,7 +1,5 @@
 # A Stock Screener using [yfinance](https://ranaroussi.github.io/yfinance/) [[conda]](https://anaconda.org/channels/conda-forge/packages/yfinance/overview)  
 
-* [Computing Basics](https://archive.org/details/computing-basics)  
-
 * **yfinance API**  
 
   * [**_Ticker_**](https://ranaroussi.github.io/yfinance/reference/api/yfinance.Ticker.html)  
