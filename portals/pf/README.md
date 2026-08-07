@@ -2,6 +2,8 @@
 
 [**Literary Theory**](#literary-theory)  
 
+[**Iran in Late Antiquity**](#iran-in-late-antiquity)  
+
 
 ---
 
@@ -14,4 +16,7 @@
 [[view]](https://english.yale.edu/publications/anxiety-influence-theory-poetry) 1973. Bloom. _The anxiety of influence_  
 [[view]](https://www.press.jhu.edu/books/title/3380/myth-birth-hero) 1909. Rank. _The Myth of the Birth of the Hero_  
 [[view]](https://wwnorton.com/books/9780393305746) 1907. Rank. _Art and Artist_  
+
+## <a id="iran-in-late-antiquity"></a>[Iran in Late Antiquity](iila.md)  
+
 
