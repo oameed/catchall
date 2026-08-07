@@ -1,18 +1,30 @@
-# AI Assisted Workflows
+# PhD Research
 
-* This is the official repository for the following PhD Dissertation:
-  
-  [[view]](https://digitalrepository.unm.edu/ece_etds/628/) 2023. Noakoasteen. _AI Assisted Workflows for Computational EM and Antenna Design_ [[presentation]](https://archive.org/details/phd-defense-presentation)  
+[**Dissertation**](#dissertation)  
 
-* This research is published in the following journal papers:
+[**Similar/Inspirational Works**](#similar-or-inspirational-works)  
 
-  [[view]](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/mia2.12463) 2024. Noakoasteen. _Physics-Informed Surrogates for EM Dynamics using Transformers and GNNs_ [[GitHub]](https://github.com/oameed/unm_cem_trnsf_gnn_fdtd)  
-  [[view]](https://ieeexplore.ieee.org/document/9763831) 2022. Noakoasteen. _Antenna Design using a GAN-based Synthetic Data Generation Approach_ [[GitLab]](https://gitlab.com/oameed/unm_rfant_dloptant)  
-  [[view]](https://ieeexplore.ieee.org/document/9158400) 2020. Noakoasteen. _Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis_ [[GitLab]](https://gitlab.com/oameed/unm_cem_dlfdtd)  
+[**Insightful Works from CV/NLP**](#insightful-works-from-cv-nlp)  
+
+[**Other Approaches**](#other-approaches)  
+
+[**Useful**](#useful)  
+
+[**Additional References for the Manuscript**](#additional-references-for-the-manuscript)  
 
 
+---
 
-## Similar/Inspirational Works 
+
+## <a id="dissertation"></a>Dissertation  
+
+[**AI Assisted Workflows for Computational EM and Antenna Design**](https://digitalrepository.unm.edu/ece_etds/628/) [[**presentation**]](https://archive.org/details/phd-defense-presentation)  
+* [2024. **Physics-Informed Surrogates for EM Dynamics using Transformers and GNNs**](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/mia2.12463) [[GitHub]](https://github.com/oameed/unm_cem_trnsf_gnn_fdtd)  
+* [2022. **Antenna Design using a GAN-based Synthetic Data Generation Approach**](https://ieeexplore.ieee.org/document/9763831) [[GitLab]](https://gitlab.com/oameed/unm_rfant_dloptant)  
+* [2020. **Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis**](https://ieeexplore.ieee.org/document/9158400) [[GitLab]](https://gitlab.com/oameed/unm_cem_dlfdtd)  
+
+
+## <a id="similar-or-inspirational-works"></a>Similar/Inspirational Works  
 
 [[view]](https://arxiv.org/abs/2403.07815) 2024. Ansari. _Chronos: Learning the Language of Time Series_  
 [[view]](https://arxiv.org/abs/2403.03929) 2024. Meo. _Extreme Precipitation Nowcasting using Transformer-based Generative Models_  
@@ -30,7 +42,7 @@
 [[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
 [[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[YouTube]](https://www.youtube.com/watch?v=w71zxkniJfo)  
 
-## Insightful Works from CV/NLP
+## <a id="insightful-works-from-cv-nlp"></a>Insightful Works from CV/NLP  
 
 [[view]](https://arxiv.org/abs/2004.05214) 2020. Oprea. _A Review on Deep Learning Techniques for Video Prediction_  
 [[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
@@ -47,7 +59,7 @@
 [[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals. _Show and Tell: A Neural Image Caption Generator_  
 [[view]](https://arxiv.org/abs/1308.0850) 2013. Graves. _Generating Sequences With Recurrent Neural Networks_  
 
-## Other Approaches
+## <a id="other-approaches"></a>Other Approaches  
 
 [[view]](https://openreview.net/forum?id=DBHG4c9F6h) 2024. Chandra. _Fourier Neural Operator based surrogates for storage in realistic geologies_  
 [[view]](https://arxiv.org/abs/2402.16845) 2024. Liu-Schiaffini. _Neural Operators with Localized Integral and Differential Kernels_  
@@ -77,7 +89,7 @@
 [[view]](https://ieeexplore.ieee.org/abstract/document/1528518) 2005. Ramuhalli. _Finite-Element ANNs for Solving Differential Equations_  
 [[view]](https://ieeexplore.ieee.org/abstract/document/1402508) 2005. Mishra. _NFDTD Concept_  
 
-## Useful
+## <a id="useful"></a>Useful  
 
 [[view]](https://aiindex.stanford.edu/) Stanford University. _AI Index Report_  
 
@@ -95,7 +107,7 @@
 [[view]](https://link.springer.com/book/10.1007/978-1-4614-7551-4) 2013. Koziel. _Surrogate-Based Modeling and Optimization_  
 [[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470770801) 2008. Forrester. _Engineering Design via Surrogate Modelling_  
 
-## Additional References for the Manuscript
+## <a id="additional-references-for-the-manuscript"></a>Additional References for the Manuscript  
 
 **_Chapter 1: What is Artificial Intelligance (AI) ?_**
 
