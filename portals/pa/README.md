@@ -1,118 +1,116 @@
-# A List of Interesting Things in EM
+# AI Assisted Workflows
 
-[**A Handbook of Applied EM**](#a-handbook-of-applied-em)  
-
-[**CAD Software**](#cad-software)  
-
-[**Online Resources**](#online-resources)  
-
-
----
-
-
-## <a id="a-handbook-of-applied-em"></a>A Handbook of Applied EM  
-
-* [**_A Handbook of Applied EM_**](https://archive.org/details/a-handbook-of-applied-em)  
-  [**_Derivation Tables_**](https://archive.org/details/a-handbook-of-applied-em-derivation-tables) 
+* This is the official repository for the following PhD Dissertation:
   
-* [**_Computing Basics_**](https://archive.org/details/computing-basics)  
+  [[view]](https://digitalrepository.unm.edu/ece_etds/628/) 2023. Noakoasteen. _AI Assisted Workflows for Computational EM and Antenna Design_ [[presentation]](https://archive.org/details/phd-defense-presentation)  
 
-* **_Supporting Repositories_**  
-  [[view]](https://github.com/oameed/cem_fdm_2d) Finite Difference Method (FDM) for 2D Problems  
-  [[view]](https://github.com/oameed/cem_fem_2d) Finite Element Method (FEM) for 2D Problems  
-  [[view]](https://github.com/oameed/cem_fdtd_2d) Finite Difference Time Domain (FDTD) for 2D TEz Problems  
-  [[view]](https://github.com/oameed/cem_mom_2d) Method of Moments (MoM) for 2D Scattering and Electrostatics  
+* This research is published in the following journal papers:
 
-* **_References_**  
-  
-  * **Electrodynamics**  
-    [[view]](https://www.wiley.com/en-us/Balanis%27+Advanced+Engineering+Electromagnetics%2C+3rd+Edition-p-9781394180035) 2023. Balanis. _Advanced Engineering Electromagnetics_. 3rd Edition  
-    [[view]](https://www.pearson.com/en-us/subject-catalog/p/fundamentals-of-applied-electromagnetics/P200000003174/9780135200445) 2020. Ulaby. _Fundamentals of Applied Electromagnetics_. 8th Edition  
-    [[view]](https://commons.library.stonybrook.edu/egp/3/) 2016. Likharev. _Essential Graduate Physics: Classical Electrodynamics_  
-    [[view]](https://www.wiley.com/en-us/Fields+and+Waves+in+Communication+Electronics%2C+3rd+Edition-p-9780471585510) 1994. Ramo. _Fields and Waves in Communication Electronics_. 3rd Edition  
-    [[view]](https://www.pearson.com/uk/educators/higher-education-educators/program/Cheng-Field-and-Wave-Electromagnetics-Pearson-New-International-Edition-2nd-Edition/PGM1052866.html) 1989. Cheng. _Field and Wave Electromagnetics_. 2nd Edition  
-    [[view]](https://www.wiley.com/en-us/Time+Harmonic+Electromagnetic+Fields-p-9780471208068) 1961. Harrington. _Time-Harmonic Electromagnetic Fields_  
-  
-  * **Microwave Circuits & Systems**  
-    [[view]](https://www.wiley.com/en-us/RF+and+Microwave+Circuit+Design:+Theory+and+Applications-p-9781119114666) 2022. Free. _RF and Microwave Circuit Design_  
-    [[view]](https://www.wiley.com/en-us/Antenna+Theory%3A+Analysis+and+Design%2C+4th+Edition-p-9781118642061) 2016. Balanis. _Antenna Theory: Analysis and Design_. 4th Edition  
-    [[view]](https://www.wiley.com/en-us/Foundations+for+Microstrip+Circuit+Design,+4th+Edition-p-9781118936191) 2016. Edwards. _Foundations for Microstrip Circuit Design_. 4th Edition  
-    [view] 2016. Orfanidis. _Electromagnetic Waves and Antennas_  
-    [[view]](https://www.wiley.com/en-us/Digital+Microwave+Communication%3A+Engineering+Point+to+Point+Microwave+Systems-p-9781118636800) 2013. Kizer. _Digital Microwave Communication: Engineering Point-to-Point Microwave Systems_  
-    [[view]](https://www.wiley.com/en-us/Antenna+Theory+and+Design%2C+3rd+Edition-p-9780470576649) 2012. Stutzman. _Antenna Theory and Design_. 3rd Edition  
-    [[view]](https://www.wiley.com/en-us/Microwave+Engineering%2C+4th+Edition-p-9780470631553) 2011. Pozar. _Microwave Engineering_. 4th Edition  
-    [[view]](https://books.google.com/books/about/RF_Circuit_Design.html?id=zpTnMsiUkmwC) 2011. Bowick. _RF Circuit Design_. 2nd Edition  
-    [[view]](https://doi.org/10.1142/p669) 2010. Lee. _Microstrip Patch Antennas_  
-    [[view]](https://www.pearson.com/en-us/subject-catalog/p/rf-circuit-design-theory--applications/P200000003197/9780131471375) 2009. Ludwig. _RF Circuit Design: Theory & Applications_. 2nd Edition  
-    [[view]](https://us.artechhouse.com/Nonlinear-Microwave-and-RF-Circuits-Second-Edition-P1097.aspx) 2003. Maas. _Nonlinear Microwave and RF Circuits_. 2nd Edition  
-    [[view]](https://books.google.com/books/about/Microstrip_Antenna_Design_Handbook.html?id=_er1LO5pEnUC) 2001. Garg. _Microstrip Antenna Design Handbook_  
-    [[view]](https://www.wiley.com/en-us/Foundations+for+Microwave+Engineering%2C+2nd+Edition-p-9780780360310) 2001. Collin. _Foundations for Microwave Engineering_. 2nd Edition  
-    [[view]](https://www.wiley.com/en-us/Microwave+and+RF+Design+of+Wireless+Systems-p-9780471322825) 2000. Pozar. _Microwave and RF Design of Wireless Systems_  
-    [[view]](https://books.google.com/books/about/Microwave_Transistor_Amplifiers.html?id=-AVTAAAAMAAJ) 1997. Gonzalez. _Microwave Transistor Amplifiers: Analysis and Design_. 2nd Edition  
+  [[view]](https://ietresearch.onlinelibrary.wiley.com/doi/10.1049/mia2.12463) 2024. Noakoasteen. _Physics-Informed Surrogates for EM Dynamics using Transformers and GNNs_ [[GitHub]](https://github.com/oameed/unm_cem_trnsf_gnn_fdtd)  
+  [[view]](https://ieeexplore.ieee.org/document/9763831) 2022. Noakoasteen. _Antenna Design using a GAN-based Synthetic Data Generation Approach_ [[GitLab]](https://gitlab.com/oameed/unm_rfant_dloptant)  
+  [[view]](https://ieeexplore.ieee.org/document/9158400) 2020. Noakoasteen. _Physics-Informed Deep Neural Networks for Transient Electromagnetic Analysis_ [[GitLab]](https://gitlab.com/oameed/unm_cem_dlfdtd)  
 
-  * **Computational Electromagnetics**  
-    [[view]](https://www.taylorfrancis.com/books/mono/10.1201/9780429355509/method-moments-electromagnetics-walton-gibson) 2021. Gibson. _The Method of Moments in Electromagnetics_. 3rd Edition  
-    [[view]](https://shop.theiet.org/numerical-methods-for-engineering-2nd-edition) 2020. Warnick. _Numerical Methods for Engineering An introduction using MATLAB_. 2nd Edition  
-    [view] 2019. Reddy. _An Introduction to the FEM. 4th Edition_  
-    [[view]](https://books.google.com/books/about/Theory_and_Computation_of_Electromagneti.html?id=3NVZCgAAQBAJ) 2015. Jin. _Theory and Computation of Electromagnetic Fields_. 2nd Edition  
-    [[view]](https://www.wiley.com/en-us/The+Finite+Element+Method+in+Electromagnetics%2C+3rd+Edition-p-9781118571361) 2014. Jin. _The FEM in Electromagnetics. 3rd Edition_  
-    [[view]](https://www.cambridge.org/core/books/numerical-electromagnetics/C662D0321F07312BC62853E39E68E4A5) 2011. Inan. _Numerical Electromagnetics: The FDTD Method_  
-    [[view]](https://link.springer.com/book/10.1007/978-3-031-01707-0) 2009. Chew. _IE Methods for Electromagnetic and Elastic Waves_  
-    [[view]](https://shop.theiet.org/finite-diff-time-dom-em-2-ed) 2009. Elsherbeni. _The FDTD Method for Electromagnetics_ 2nd Edition  
-    [[view]](https://www.taylorfrancis.com/books/mono/10.1201/9781315222622/numerical-techniques-electromagnetics-matlab%C2%AE-matthew-sadiku) 2009. Sadiku. _Numerical Techniques in Electromagnetics with MATLAB_. 3rd Edition  
-    [[view]](https://link.springer.com/book/10.1007/978-3-031-01696-7) 2007. Berenger. _Perfectly Matched Layer (PML) for Computational Electromagnetics_  
-    [[view]](https://link.springer.com/book/10.1007/978-3-031-01689-9) 2006. Polycarpou. _Introduction to the FEM in Electromagnetics_  
-    [[view]](https://uk.artechhouse.com/Computational-Electrodynamics-Third-Edition-P1916.aspx) 2005. Taflove. _Computational Electrodynamics_. 3rd Edition  
-    [view] 1957. Dwight. _Tables of Integrals and Other Mathematical Data_  
 
-## <a id="cad-software"></a>CAD Software  
 
-[[view]](https://www.comsol.com/rf-module) COMSOL. **_COMSOL_** [FEM][BEM]  
-[[view]](https://www.3ds.com/products-services/simulia/products/cst-studio-suite/) SIMULIA. **_CST Microwave Studio_** [FEM][FIT][MoM]  
-[[view]](https://www.altair.com/feko/) Altair. **_FEKO_** [FDTD][FEM][MoM] [[Tutorials]](https://digital-library.theiet.org/content/books/ew/sbew521e)  
-[[view]](https://www.ansys.com/products/electronics/ansys-hfss) Ansys. **_HFSS_** [FEM]  
-[[view]](https://lucernhammer.tripointindustries.com/) Tripoint Industries. **_lucernhammer_** [MoM]  
-[[view]](https://meep.readthedocs.io/en/latest/) **_Meep_** [FDTD]  
-[[view]](https://softwarelicensing.llnl.gov/product/nec-v50) LLNL. **_NEC_** [MoM]  
-[[view]](https://onelab.info/) **_ONELAB_** [FEM]  
-[[view]](https://www.flexcompute.com/tidy3d/solver/) Flexcompute. **_Tidy3D_** [FDTD]  
-[[view]](https://www.remcom.com/xfdtd-3d-em-simulation-software) REMCOM. **_Xfdtd_** [FDTD]  
+## Similar/Inspirational Works 
 
-[[view]](https://www.3ds.com/products-services/simulia/products/antenna-magus/) SIMULIA. **_Antenna Magus_**  
+[[view]](https://arxiv.org/abs/2403.07815) 2024. Ansari. _Chronos: Learning the Language of Time Series_  
+[[view]](https://arxiv.org/abs/2403.03929) 2024. Meo. _Extreme Precipitation Nowcasting using Transformer-based Generative Models_  
+[[view]](https://arxiv.org/abs/2212.12794) 2022. Lam. _GraphCast: Learning skillful medium-range global weather forecasting_  
+[[view]](https://arxiv.org/abs/2201.09113) 2022. Han. _Predicting Physics in Mesh-reduced Space with Temporal Attention_  
+[[view]](https://arxiv.org/abs/2010.03409) 2020. Pfaff. _Learning Mesh-Based Simulation with Graph Networks_ [[GitHub]](https://github.com/deepmind/deepmind-research/tree/master/meshgraphnets) [[blog]](https://sites.google.com/view/meshgraphnets)  
+[[view]](https://arxiv.org/abs/2002.09405) 2020. Sanchez-Gonzalez. _Learning to Simulate Complex Physics with Graph Networks_ [[GitHub]](https://github.com/deepmind/deepmind-research/tree/master/learning_to_simulate) [[blog]](https://sites.google.com/view/learning-to-simulate)  
+[[view]](https://arxiv.org/abs/2002.08981) 2020. Fotiadis. _Comparing RNNs and CNNs for predicting wave propagation_ [[GitHub]](https://github.com/stathius/wave_propagation)  
+[[view]](https://arxiv.org/abs/2001.08317) 2020. Wu. _Deep Transformer Models for Time Series Forecasting: The Influenza Prevalence Case_  
+[[view]](https://arc.aiaa.org/doi/10.2514/6.2020-2261) 2020. Achour. _Development of a Conditional GAN for Airfoil Shape Optimization_  
+[[view]](https://arxiv.org/abs/1903.00033) 2019. Mohan. _Compressed Convolutional LSTM_  
+[[view]](https://arxiv.org/abs/1812.01609) 2018. Sorteberg. _Approximating the solution to wave propagation using DNNs_  
+[[view]](https://ieeexplore.ieee.org/document/8608745) 2018. Yao. _ML Based ANN Solving Methods for the FDTD Method_  
+[[view]](https://arxiv.org/abs/1705.09036) 2017. Hennigh. _Lat-Net: Compressing Lattice Boltzmann Flow Simulations using DNNs_ [[GitHub]](https://github.com/loliverhennigh/Phy-Net)  
+[[view]](https://arxiv.org/abs/1703.00247) 2017. Ehrhardt. _Learning A Physical Long-term Predictor_  
+[[view]](https://arxiv.org/abs/1607.03597) 2016. Tompson. _Accelerating Eulerian Fluid Simulation With CNNs_ [[YouTube]](https://www.youtube.com/watch?v=w71zxkniJfo)  
 
-[[view]](https://www.pathloss.com/) CTE. **_Pathloss_**  
+## Insightful Works from CV/NLP
 
-[[view]](https://www.keysight.com/us/en/products/software/pathwave-design-software/pathwave-advanced-design-system.html) PathWave. **_Advanced Design System (ADS)_** [[Tutorials]](https://www.keysight.com/us/en/assets/7018-04800/application-notes/5992-0707.pdf)  
-[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-microwave-office.html) Cadence. **_AWR Microwave Office_**  
-[[view]](https://www.cadence.com/en_US/home/tools/system-analysis/rf-microwave-design/awr-tx-line.html) Cadence. **_AWR TX-LINE_**  
-[[view]](https://scikit-rf.readthedocs.io/en/latest/index.html) **_scikit-rf_** [[IEEE]](https://ieeexplore.ieee.org/document/9632487)  
+[[view]](https://arxiv.org/abs/2004.05214) 2020. Oprea. _A Review on Deep Learning Techniques for Video Prediction_  
+[[view]](https://arxiv.org/abs/1609.02612) 2016. Vondrick. _Generating videos with scene dynamics_  
+[[view]](https://arxiv.org/abs/1608.07724) 2016. Zhou. _Learning Temporal Transformations From Time-Lapse Videos_  
+[[view]](https://arxiv.org/abs/1511.06309) 2015. Patraucean. _Spatio-temporal video autoencoder with differentiable memory_  
+[[view]](https://arxiv.org/abs/1511.05440) 2015. Mathieu. _Deep multi-scale video prediction beyond mean square error_  
+[[view]](https://arxiv.org/abs/1511.05234) 2015. Xu. _Ask, Attend and Answer_  
+[[view]](https://arxiv.org/abs/1508.00271) 2015. Fragkiadaki. _Recurrent Network Models for Human Dynamics_   
+[[view]](https://arxiv.org/abs/1503.08895) 2015. Sukhbaatar. _End-To-End Memory Networks_  
+[[view]](https://arxiv.org/abs/1502.04681) 2015. Srivastava. _Unsupervised learning of video representations using lstms_  
+[[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
+[[view]](https://arxiv.org/abs/1412.7755) 2014. Ba. _Multiple Object Recognition with Visual Attention_  
+[[view]](https://arxiv.org/abs/1412.6604) 2014. Ranzato. _Video (language) modeling: a baseline for generative models of natural videos_  
+[[view]](https://arxiv.org/abs/1411.4555) 2014. Vinyals. _Show and Tell: A Neural Image Caption Generator_  
+[[view]](https://arxiv.org/abs/1308.0850) 2013. Graves. _Generating Sequences With Recurrent Neural Networks_  
 
-[[view]](https://www.synopsys.com/implementation-and-signoff/ams-simulation/primesim-hspice.html) Synopsys. **_HSPICE_**  
-[[view]](https://www.cadence.com/en_US/home/tools/pcb-design-and-analysis/analog-mixed-signal-simulation/pspice.html) Cadence. **_PSpice_**  
-[[view]](https://www.orcad.com/products/orcad-pspice-designer/overview) OrCAD. **_PSpice Designer_**  
+## Other Approaches
 
-## <a id="online-resources"></a>Online Resources  
+[[view]](https://openreview.net/forum?id=DBHG4c9F6h) 2024. Chandra. _Fourier Neural Operator based surrogates for storage in realistic geologies_  
+[[view]](https://arxiv.org/abs/2402.16845) 2024. Liu-Schiaffini. _Neural Operators with Localized Integral and Differential Kernels_  
+[[view]](https://medium.com/pytorch/exploring-scientific-machine-learning-pipelines-through-the-simulai-toolkit-9fda42d6c6a0) 2024. Almeida. _Exploring scientific machine learning pipelines through the SimulAI toolkit_  
+[[view]](https://polymathic-ai.org/blog/mpp/) 2023. McCabe. _Multiple Physics Pretraining for Physical Surrogate Models_ [[paper]](https://arxiv.org/abs/2310.02994) [[GitHub]](https://github.com/PolymathicAI/multiple_physics_pretraining)  
+[[view]](https://arxiv.org/abs/2302.11002) 2023. Hansen. _Learning Physical Models that Can Respect Conservation Laws_  
+[[view]](https://arxiv.org/abs/2202.11214) 2022. Pathak. _FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive FNOs_ [[GitHub]](https://github.com/NVlabs/FourCastNet)  
+[[view]](https://arxiv.org/abs/2010.08895) 2020. Li. _Fourier Neural Operator for Parametric PDEs_ [[blog]](https://zongyi-li.github.io/blog/2020/fourier-pde/)  
+[[view]](https://arxiv.org/abs/2003.03485) 2020. Li. _Neural Operator: Graph Kernel Network for PDEs_ [[blog]](https://zongyi-li.github.io/blog/2020/graph-pde/)  
 
-* [**_Test & Measurement Fundamentals by Rohde & Schwarz_**](https://www.youtube.com/playlist?list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8)  
-  * [What is RF?](https://www.youtube.com/watch?v=WPjniblApwk&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=128)  
-  * [VSWR & RL](https://www.youtube.com/watch?v=BijMGKbT0Wk&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=4)  
-  * [Smith Chart](https://www.youtube.com/watch?v=rUDMo7hwihs&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=2&t=9s)  
-  * [S-Parameters](https://www.youtube.com/watch?v=-Pi0UbErHTY&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=3)  
-  * [Gain Compression & P1dB](https://www.youtube.com/watch?v=30dWNYNzjfI&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=18)  
-  * [IP3](https://www.youtube.com/watch?v=m-2H8ddSwTI&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=21)  
-  * [Load Pull](https://www.youtube.com/watch?v=JtMeIdlEe40&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=12&t=1s)  
-  * [Phase Noise (I)](https://www.youtube.com/watch?v=hfgaEjf1154&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=35)  
-  * [Phase Noise (II)](https://www.youtube.com/watch?v=pL0pY-t8KWY&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=36)  
-  * [Phase Noise (III)](https://www.youtube.com/watch?v=Sf7qiysPFbQ&list=PLKxVoO5jUTlvsVtDcqrVn0ybqBVlLj2z8&index=37)     
+**_Use of ANNs as Optimization Tools ?! : The PINNs_**
 
-* [**_Measurement Fundamentals by National Instruments_**](https://www.ni.com/en/shop/data-acquisition/measurement-fundamentals.html)  
+[[view]](https://www.nature.com/articles/s41524-023-01165-7) 2023. Zhou. _PINNs for solving time-dependent mode-resolved phonon Boltzmann transport equation_  
+[[view]](https://link.springer.com/article/10.1007/s10409-021-01148-1) 2022. Cai. _PINNs for fluid mechanics A review_  
+[[view]](https://arxiv.org/abs/2109.05237) 2021. Thuerey. _Physics-based Deep Learning_  
+[[view]](https://www.nature.com/articles/s42254-021-00314-5) 2021. Karniadakis. _Physics informed machine learning_  
+[[view]](https://www.sciencedirect.com/science/article/pii/S0021999118307125) 2019. Raissi. _Physics-informed neural networks_  
+[[view]](https://www.jmlr.org/papers/volume19/18-046/18-046.pdf?ref=https://githubhelp.com) 2018. Raissi. _Deep Learning of Nonlinear Partial Differential Equations_  
+[[view]](https://arxiv.org/abs/1711.10566) 2017. Raissi. _Physics Informed Deep Learning - Part II_   
+[[view]](https://arxiv.org/abs/1711.10561) 2017. Raissi. _Physics Informed Deep Learning - Part I_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/870037) 2000. Lagaris. _ANN Methods for BVPs with Irregular Boundaries_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/712178) 1998. Lagaris. _ANNs for Solving ODEs and PDEs_  
 
-* [**_Everything RF_**](https://www.everythingrf.com/)  
-* [**_Microwaves101_**](https://www.microwaves101.com/)  
-  * [Smith Chart (B&W)](https://www.microwaves101.com/uploads/smith.PDF)  
-  * [Smith Chart (Color)](https://www.microwaves101.com/uploads/smith-chart-in-color.PDF)  
-* [**_RF Cafe_**](https://www.rfcafe.com/)  
-* [**_Microwaves & RF_**](https://www.mwrf.com/)  
+**_Use of ANNs as Optimization Tools ?!_**
 
-* [**_Online Integral Calculator by  Wolfram Research_**](https://www.wolframalpha.com/calculators/integral-calculator/)  
+[[view]](https://ieeexplore.ieee.org/document/8072529) 2017. Yao. _Machine Learning Based Method of Moments (ML-MoM)_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/1528518) 2005. Ramuhalli. _Finite-Element ANNs for Solving Differential Equations_  
+[[view]](https://ieeexplore.ieee.org/abstract/document/1402508) 2005. Mishra. _NFDTD Concept_  
+
+## Useful
+
+[[view]](https://aiindex.stanford.edu/) Stanford University. _AI Index Report_  
+
+[[view]](https://www.anl.gov/ai-for-science-report) 2020. ANL. _AI for Science_  
+[[view]](https://www.osti.gov/biblio/1478744-workshop-report-basic-research-needs-scientific-machine-learning-core-technologies-artificial-intelligence) 2019. DOE. _Basic Research Needs for Scientific ML: Core Technologies for AI_   
+[[view]](https://royalsociety.org/topics-policy/projects/machine-learning/) 2017. RS. _Machine Learning: the power and promise of computers that learn by example_  
+
+[[view]](https://www.arxiv.org/abs/2407.07218) 2024. McGreivy. _Weak baselines and reporting biases lead to overoptimism in ML for fluid-related PDEs_  
+[[view]](https://arxiv.org/abs/2012.07938) 2020. Hennigh. _NVIDIA SimNet: an AI-accelerated multi-physics simulation framework_ [[NVIDIA PhysicsNeMo]](https://developer.nvidia.com/modulus) 
+ 
+**_What are Surrogate Models ?_**  
+
+[[view]](https://link.springer.com/book/10.1007/978-981-15-0731-1) 2020. Jiang. _Surrogate Model-Based Engineering Design and Optimization_  
+[[view]](https://www.worldscientific.com/worldscibooks/10.1142/q0043#t=aboutBook) 2016. Koziel. _Multi-Objective Design of Antennas Using Surrogate Models_  
+[[view]](https://link.springer.com/book/10.1007/978-1-4614-7551-4) 2013. Koziel. _Surrogate-Based Modeling and Optimization_  
+[[view]](https://onlinelibrary.wiley.com/doi/book/10.1002/9780470770801) 2008. Forrester. _Engineering Design via Surrogate Modelling_  
+
+## Additional References for the Manuscript
+
+**_Chapter 1: What is Artificial Intelligance (AI) ?_**
+
+* **_Computer Vision (CV)_**  
+
+  * **_Object Detection: Autonomous Driving/Vehicles_**  
+   [[view]](https://blogs.nvidia.com/blog/2019/06/19/drive-labs-distance-to-object-detection/) 2019. NVIDIA. _To Go the Distance, We Built Systems That Could Better Perceive It_  [[YouTube]](https://www.youtube.com/watch?v=ftsUg5VlzIE) [[NVIDIA DRIVE Labs]](https://www.nvidia.com/en-us/self-driving-cars/drive-videos/)  
+  * **_Pose Estimation: Human-Robot Collaboration_**  
+    [[view]](https://arxiv.org/abs/1809.10790) 2018. NVIDIA. _Deep Object Pose Estimation for Semantic Robotic Grasping of Household Objects_ [[YouTube]](https://www.youtube.com/watch?v=yVGViBqWtBI) [[NVIDIA Research]](https://research.nvidia.com/publication/2018-09_Deep-Object-Pose)  
+  * **_Image Synthesis: Identity Preserving Facial Expression Synthesis_**  
+    [[view]](https://onlinelibrary.wiley.com/doi/full/10.1111/cgf.13926) 2020. Disney Research. _Facial Expression Synthesis using a Global-Local Multilinear Framework_ [[YouTube]](https://www.youtube.com/watch?v=4Dgby6XlI4s)  
+  * **_Image Super-Resolution: Medical Image Enhancement_**  
+    [[view]](https://arxiv.org/abs/1802.05518) 2018. Sindel et. al. _Learning from a Handful Volumes: MRI Resolution Enhancement with Volumetric Super-Resolution Forests_  
+  * **_Image Denoising: Image Restoration and Inpainting_**  
+    [[view]](https://arxiv.org/abs/1803.04189) 2018. NVIDIA. _Noise2Noise: Learning Image Restoration without Clean Data_ [[YouTube]](https://www.youtube.com/watch?v=pp7HdI0-MIo) [[NVIDIA Research]](https://research.nvidia.com/publication/2018-07_Noise2Noise%3A-Learning-Image)   
+  * **_Image Transcription: Image Captioning and Scene Understanding_**  
+    [[view]](https://arxiv.org/abs/1502.03044) 2015. Xu. _Show, Attend and Tell: Neural Image Caption Generation with Visual Attention_  
 
