@@ -1,8 +1,13 @@
 
-## [Computing Basics](https://archive.org/details/computing-basics)  
+[**App Configurations**](#app-configurations)  
+
+[**Snippets**](#snippets)  
 
 
-## App Configurations
+---
+
+
+## <a id="app-configurations"></a>App Configurations  
 
 * [**MPV Media Player**](https://mpv.io/)  
 
@@ -118,7 +123,7 @@
         "security.workspace.trust.enabled": false  
 
 
-## Snippets
+## <a id="snippets"></a>Snippets  
 
 * [**PowerShell**](https://learn.microsoft.com/en-us/powershell/)  
 
