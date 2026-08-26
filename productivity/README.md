@@ -126,5 +126,10 @@
     
   * **_Removing Spaces from File Names_**  
     
-        Get-ChildItem -File | Rename-Item -NewName {$_.Name -replace ' ','_'}
+        Get-ChildItem -File | Rename-Item -NewName {$_.Name -replace ' ','_'}  
+  
+  * **_Shuffling Contents of a Playlist_**  
+    
+        Get-Content <filename> | Get-Random -Shuffle > <filename>  
+
 
