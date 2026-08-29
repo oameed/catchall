@@ -1,7 +1,5 @@
 # My Library
 
-[**For the Coffee Table**](#for-the-coffee-table)  
-
 [**Persian Literature**](#persian-literature)  
 
 [**The Canon**](#the-canon)  
@@ -9,11 +7,6 @@
 
 ---
 
-
-## <a id="for-the-coffee-table"></a>For the Coffee Table  
-
-[[view]](https://www.dummies.com/book/business-careers-money/personal-finance/investing/investment-vehicles/stocks/stock-investing-for-dummies-6th-edition-282608/) 2020. Mladjenovic. _Stock investing for dummies_. 6th Edition  
-[[view]](https://www.dummies.com/book/business-careers-money/personal-finance/investing/general-investing/high-level-investing-for-dummies-282274/) 2015. Mladjenovic. _High Level Investing For Dummies_  
 
 ## <a id="persian-literature"></a>Persian Literature  
 
@@ -27,11 +20,11 @@
   [[view]](https://www.penguinrandomhouse.com/books/121929/basic-writings-of-nietzsche-by-friedrich-nietzsche/) 2000. Kaufmann. _Basic Writings of Nietzsche_  
   [[view]](https://www.penguinrandomhouse.com/books/321142/the-portable-nietzsche-by-friedrich-nietzsche/) 1977. Kaufmann. _The Portable Nietzsche_  
    
-  [[view]](https://www.cambridge.org/core/books/cambridge-companion-to-nietzsche/0553746BCDFB36BBAD3CC80CE520A089) 1996. Higgins. _The Cambridge Companion to Nietzsche_  
-   
 * **_Freud_**  
-  
-  **_Standard Edition of the Complete Psychological Works of Sigmund Freud_**  
+
+  [**_The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud_**](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175163/)  
+
+  **_The Standard Edition of the Complete Psychological Works of Sigmund Freud_**  
   [[view]](https://wwnorton.com/books/9780393001518) 1938. _An Outline of Psycho-Analysis_ (Volume 23)  
   [[view]](https://wwnorton.com/books/9780393007435) 1932. _New Introductory Lectures on Psycho-Analysis_ (Volume 22)  
   [[view]](https://wwnorton.com/books/9780393008319) 1927. _The Future of an Illusion_ (Volume 21)  
@@ -45,16 +38,10 @@
   [[view]](https://wwnorton.com/books/9780393008470) 1910. _Five Lectures on Psycho-Analysis_ (Volume 11)  
   [[view]](https://wwnorton.com/books/9780393006117) 1901. _The Psychopathology of Everyday Life_ (Volume 6)  
   [[view]](https://wwnorton.com/books/9780393001440) 1901. _On Dreams_ (Volume 5)  
-   
-  [[view]](https://www.cambridge.org/core/books/cambridge-companion-to-freud/6DAB1CECC153D1E4D5F0B56ECAB900C5) 2006. Neu. _Cambridge Companion to Freud_  
-  [[view]](https://sk.sagepub.com/books/a-short-introduction-to-psychoanalysis-2e) 2004. Milton. _A Short Introduction to Psychoanalysis_  
-     
+
 * **_Darwin_**  
 
   [[view]](https://oxfordworldsclassics.com/display/10.1093/owc/9780199219223.001.0001/isbn-9780199219223) 1859. _On The Origin of Species_  
-  
-  [[view]](https://global.oup.com/academic/product/processes-in-human-evolution-9780198739913?q=Camilo%20J.%20Cela-Conde&lang=en&cc=us) 2017. Ayala. _Processes in Human Evolution_  
-  [[view]](https://www.hachettebookgroup.com/titles/ernst-mayr/what-evolution-is/9780465044269/?lens=basic-books) 2001. Mayr. _What Evolution Is_  
 
 * **_Kuhn_** & **_Popper_**  
 
