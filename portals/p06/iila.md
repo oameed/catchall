@@ -79,8 +79,7 @@
 
 * **_Texts_**  
   
-  * **_Religious Canon: Zoroastrianism_**<br/><br/>
-    [[view]](https://press.uchicago.edu/ucp/books/book/chicago/T/bo3655535.html) 1984. Boyce. _Textual Sources for the Study of Zoroastrianism_  
+  * **_Religious Canon: Zoroastrianism_**  
   
     **_The Sacred Books of the East (Max Muller)_**  
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_of_the_East/_RApAAAAYAAJ?hl=en) Volume 04: The Zend Avesta, Part 1: The Vendidad (Darmesteter, 1895)  
@@ -96,8 +95,8 @@
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/LJAOAQAAIAAJ?hl=en) Volume 7: Ancient Persia (Horne, 1917)  
 
     **_The Dinkard (Sanjana, 1874 - 1915)_**  
-    [Volume 1](https://www.google.com/books/edition/_/nO7Qelett20C) | [Volume 2](https://www.google.com/books/edition/The_Dinkard/wJ2_aUp1HJEC) | [Volume 3](https://www.google.com/books/edition/The_Dinkard/aLsOAAAAQAAJ) | [Volume 4](https://www.google.com/books/edition/The_Dinkard/gLsOAAAAQAAJ) | [Volume 5](https://www.google.com/books/edition/The_Dinkard/B8Q3AQAAMAAJ)  
-    [Volume 6](https://www.google.com/books/edition/The_%E1%B8%8Cinkar%E1%B8%8D/fRIxcok9aaIC) | [Volume 8](https://www.google.com/books/edition/The_Dinkard/_3RpGhRFDIwC) | [Volume 13](https://www.google.com/books/edition/The_Dinkard/ssY3AQAAMAAJ) | [Volume 14](https://www.google.com/books/edition/The_Dinkard/zcY3AQAAMAAJ)   
+    [Volume 01](https://www.google.com/books/edition/_/nO7Qelett20C) | [Volume 02](https://www.google.com/books/edition/The_Dinkard/wJ2_aUp1HJEC) | [Volume 03](https://www.google.com/books/edition/The_Dinkard/aLsOAAAAQAAJ) | [Volume 04](https://www.google.com/books/edition/The_Dinkard/gLsOAAAAQAAJ) | [Volume 05](https://www.google.com/books/edition/The_Dinkard/B8Q3AQAAMAAJ)  
+    [Volume 06](https://www.google.com/books/edition/The_%E1%B8%8Cinkar%E1%B8%8D/fRIxcok9aaIC) | [Volume 08](https://www.google.com/books/edition/The_Dinkard/_3RpGhRFDIwC) | [Volume 13](https://www.google.com/books/edition/The_Dinkard/ssY3AQAAMAAJ) | [Volume 14](https://www.google.com/books/edition/The_Dinkard/zcY3AQAAMAAJ)   
 
     [Pahlavi Texts (Anklesaria, 1897)](https://www.google.com/books/edition/Pahlavi_Texts/J_hKAQAAMAAJ)  
   
@@ -105,6 +104,7 @@
     [[view]](https://www.peeters-leuven.be/detail.php?search_key=9782910640095&series_number_str=23&lang=en) 2000. Amouzgar. Tafazzoli. _Le cinquième livre du Denkard_  
     [[view]](https://www.peeters-leuven.be/detail.php?search_key=3063&series_number_str=13&lang=en) 1993. Gignoux. Tafazzoli. _Anthologie de Zadspram_  
     [[view]](https://ifriran.org/1984/02/01/bi30-philippe-gignoux-le-livre-darda-viraz-1984/) 1984. Gignoux. _Le Livre d’Arda Viraz_  
+    [[view]](https://press.uchicago.edu/ucp/books/book/chicago/T/bo3655535.html) 1984. Boyce. _Textual Sources for the Study of Zoroastrianism_  
     [[view]](https://brill.com/display/title/3911?language=en) 1979. Shaked. _Denkard VI: Wisdom of the Sasanian sages_  
     [[view]](https://www.klincksieck.com/livre/9782252016022/le-troisieme-livre-de-denkart) 1974. De Menasce. _Le Troisième Livre de Denkart_  
     [view] 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)  
