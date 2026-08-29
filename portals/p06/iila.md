@@ -94,7 +94,13 @@
     
     **_The Sacred Books and Early Literature of the East_**  
     [[view]](https://www.google.com/books/edition/The_Sacred_Books_and_Early_Literature_of/LJAOAQAAIAAJ?hl=en) Volume 7: Ancient Persia (Horne, 1917)  
-    
+
+    **_The Dinkard (Sanjana, 1874 - 1915)_**  
+    [Volume 1](https://www.google.com/books/edition/_/nO7Qelett20C) | [Volume 2](https://www.google.com/books/edition/The_Dinkard/wJ2_aUp1HJEC) | [Volume 3](https://www.google.com/books/edition/The_Dinkard/aLsOAAAAQAAJ) | [Volume 4](https://www.google.com/books/edition/The_Dinkard/gLsOAAAAQAAJ) | [Volume 5](https://www.google.com/books/edition/The_Dinkard/B8Q3AQAAMAAJ)  
+    [Volume 6](https://www.google.com/books/edition/The_%E1%B8%8Cinkar%E1%B8%8D/fRIxcok9aaIC) | [Volume 8](https://www.google.com/books/edition/The_Dinkard/_3RpGhRFDIwC) | [Volume 13](https://www.google.com/books/edition/The_Dinkard/ssY3AQAAMAAJ) | [Volume 14](https://www.google.com/books/edition/The_Dinkard/zcY3AQAAMAAJ)   
+
+    [Pahlavi Texts (Anklesaria, 1897)](https://www.google.com/books/edition/Pahlavi_Texts/J_hKAQAAMAAJ)  
+  
     [[view]](https://global.oup.com/academic/product/the-bundahin-9780190879044?cc=us&lang=en&#) 2020. Agostini. _The Bundahisn The Zoroastrian Book of Creation_  
     [[view]](https://www.peeters-leuven.be/detail.php?search_key=9782910640095&series_number_str=23&lang=en) 2000. Amouzgar. Tafazzoli. _Le cinquième livre du Denkard_  
     [[view]](https://www.peeters-leuven.be/detail.php?search_key=3063&series_number_str=13&lang=en) 1993. Gignoux. Tafazzoli. _Anthologie de Zadspram_  
@@ -103,10 +109,7 @@
     [[view]](https://www.klincksieck.com/livre/9782252016022/le-troisieme-livre-de-denkart) 1974. De Menasce. _Le Troisième Livre de Denkart_  
     [view] 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)  
 
-    **_The Dinkard (Sanjana, 1874 - 1915)_**  
-    [Volume 1](https://www.google.com/books/edition/_/nO7Qelett20C) | [Volume 2](https://www.google.com/books/edition/The_Dinkard/wJ2_aUp1HJEC) | [Volume 3](https://www.google.com/books/edition/The_Dinkard/aLsOAAAAQAAJ) | [Volume 4](https://www.google.com/books/edition/The_Dinkard/gLsOAAAAQAAJ) | [Volume 5](https://www.google.com/books/edition/The_Dinkard/B8Q3AQAAMAAJ)  
-    [Volume 6](https://www.google.com/books/edition/The_%E1%B8%8Cinkar%E1%B8%8D/fRIxcok9aaIC) | [Volume 8](https://www.google.com/books/edition/The_Dinkard/_3RpGhRFDIwC) | [Volume 13](https://www.google.com/books/edition/The_Dinkard/ssY3AQAAMAAJ) | [Volume 14](https://www.google.com/books/edition/The_Dinkard/zcY3AQAAMAAJ)   
-
+    
   * **_Histories_**<br/><br/>
     [[view]](https://brill.com/display/title/15559) 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
     [[view]](https://sunypress.edu/Books/S/Set-History-of-al-abari) 2007. Yarshater. _History of Al-Tabari_  
