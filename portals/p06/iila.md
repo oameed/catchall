@@ -101,8 +101,12 @@
     [[view]](https://ifriran.org/1984/02/01/bi30-philippe-gignoux-le-livre-darda-viraz-1984/) 1984. Gignoux. _Le Livre d’Arda Viraz_  
     [[view]](https://brill.com/display/title/3911?language=en) 1979. Shaked. _Denkard VI: Wisdom of the Sasanian sages_  
     [[view]](https://www.klincksieck.com/livre/9782252016022/le-troisieme-livre-de-denkart) 1974. De Menasce. _Le Troisième Livre de Denkart_  
-    [view] 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)
-    
+    [view] 1956. Anklesaria. _Zand Akasih The Iranian (Greater) Bundahisn_ [[avesta.org]](http://www.avesta.org/mp/grb.pdf)  
+
+    **_The Dinkard (Sanjana, 1874 - 1915)_**  
+    [Volume 1](https://www.google.com/books/edition/_/nO7Qelett20C) | [Volume 2](https://www.google.com/books/edition/The_Dinkard/wJ2_aUp1HJEC) | [Volume 3](https://www.google.com/books/edition/The_Dinkard/aLsOAAAAQAAJ) | [Volume 4](https://www.google.com/books/edition/The_Dinkard/gLsOAAAAQAAJ) | [Volume 5](https://www.google.com/books/edition/The_Dinkard/B8Q3AQAAMAAJ)  
+    [Volume 6](https://www.google.com/books/edition/The_%E1%B8%8Cinkar%E1%B8%8D/fRIxcok9aaIC) | [Volume 8](https://www.google.com/books/edition/The_Dinkard/_3RpGhRFDIwC) | [Volume 13](https://www.google.com/books/edition/The_Dinkard/ssY3AQAAMAAJ) | [Volume 14](https://www.google.com/books/edition/The_Dinkard/zcY3AQAAMAAJ)   
+
   * **_Histories_**<br/><br/>
     [[view]](https://brill.com/display/title/15559) 2009. Williams. _The Zoroastrian Myth of Migration from Iran_  
     [[view]](https://sunypress.edu/Books/S/Set-History-of-al-abari) 2007. Yarshater. _History of Al-Tabari_  
