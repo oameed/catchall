@@ -41,9 +41,9 @@
     [[view]](https://www.wiley.com/en-us/Digital+Microwave+Communication%3A+Engineering+Point+to+Point+Microwave+Systems-p-9781118636800) 2013. Kizer. _Digital Microwave Communication: Engineering Point-to-Point Microwave Systems_  
     [[view]](https://www.wiley.com/en-us/Antenna+Theory+and+Design%2C+3rd+Edition-p-9780470576649) 2012. Stutzman. _Antenna Theory and Design_. 3rd Edition  
     [[view]](https://www.wiley.com/en-us/Microwave+Engineering%2C+4th+Edition-p-9780470631553) 2011. Pozar. _Microwave Engineering_. 4th Edition  
-    [[view]](https://books.google.com/books/about/RF_Circuit_Design.html?id=zpTnMsiUkmwC) 2011. Bowick. _RF Circuit Design_. 2nd Edition  
     [[view]](https://doi.org/10.1142/p669) 2010. Lee. _Microstrip Patch Antennas_  
     [[view]](https://www.pearson.com/en-us/subject-catalog/p/rf-circuit-design-theory--applications/P200000003197/9780131471375) 2009. Ludwig. _RF Circuit Design: Theory & Applications_. 2nd Edition  
+    [[view]](https://books.google.com/books/about/RF_Circuit_Design.html?id=zpTnMsiUkmwC) 2008. Bowick. _RF Circuit Design_. 2nd Edition  
     [[view]](https://us.artechhouse.com/Nonlinear-Microwave-and-RF-Circuits-Second-Edition-P1097.aspx) 2003. Maas. _Nonlinear Microwave and RF Circuits_. 2nd Edition  
     [[view]](https://books.google.com/books/about/Microstrip_Antenna_Design_Handbook.html?id=_er1LO5pEnUC) 2001. Garg. _Microstrip Antenna Design Handbook_  
     [[view]](https://www.wiley.com/en-us/Foundations+for+Microwave+Engineering%2C+2nd+Edition-p-9780780360310) 2001. Collin. _Foundations for Microwave Engineering_. 2nd Edition  
