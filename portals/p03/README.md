@@ -31,9 +31,9 @@
 * **_References: Statistical Learning_**  
   * **Textbooks**  
     [view] 2023. Garnett. _Bayesian Optimization_ [[Chapter 2: Gaussian Processes]](https://bayesoptbook.com/)  
-    [[view]](https://www.statlearning.com/) 2021. James. Witten. _An Introduction to Statistical Learning. 2nd Edition_  
-    [[view]](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html) 2020. Russell. Norvig. _Artificial Intelligence: A Modern Approach. 4th Edition_  
-    [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. Tibshirani. _The Elements of Statistical Learning. 2nd Edition_  
+    [[view]](https://www.statlearning.com/) 2021. James. _An Introduction to Statistical Learning. 2nd Edition_  
+    [[view]](https://www.pearson.com/us/higher-education/program/Russell-Artificial-Intelligence-A-Modern-Approach-4th-Edition/PGM1263338.html) 2020. Russell. _Artificial Intelligence: A Modern Approach. 4th Edition_  
+    [[view]](https://hastie.su.domains/ElemStatLearn/) 2017. Hastie. _The Elements of Statistical Learning. 2nd Edition_  
     [view] 2016. Goodfellow. _Deep Learning_ [[Chapter 5: Machine Learning Basics]](https://www.deeplearningbook.org/contents/ml.html)  
     [[view]](https://mitpress.mit.edu/9780262018029/machine-learning/) 2012. Murphy. _Machine Learning A Probabilistic Perspective_  
     [[view]](https://www.routledge.com/Ensemble-Methods-Foundations-and-Algorithms/Zhou/p/book/9781439830031) 2012. Zhou. _Ensemble Methods: Foundations and Algorithms_  
