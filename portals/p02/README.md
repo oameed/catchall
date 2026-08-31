@@ -1,4 +1,4 @@
-# A List of Interesting Things in EM
+# A Course in Electromagnetics
 
 [**A Handbook of Applied EM**](#a-handbook-of-applied-em)  
 
