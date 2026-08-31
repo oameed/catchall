@@ -1,4 +1,4 @@
-# A List of Interesting Things in AI/ML
+# A Course in Machine Learning
 
 [**A Review of Machine Learning**](#a-review-of-machine-learning)  
 
