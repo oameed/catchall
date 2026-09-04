@@ -148,6 +148,7 @@
 ## <a id="generative-ai"></a>Generative AI  
 
 * **_A Curated Reading List_**  
+  [[view]](https://openai.com/index/scientific-computing-agentic-ai/) 2026. OpenAI. _Scientific computing in the age of agentic AI_  
   [[view]](https://arxiv.org/abs/2403.18103) 2024. Chan. _Tutorial on Diffusion Models for Imaging and Vision_  
   [[view]](https://developer.nvidia.com/blog/applying-mixture-of-experts-in-llm-architectures/) 2024. Kranen. _Applying Mixture of Experts in LLM Architectures_  
   [[view]](https://arxiv.org/abs/2402.15391) 2024. Bruce. _Genie: Generative Interactive Environments_  
