@@ -15,10 +15,11 @@ def rFILE(filename):
 
 def initialize_run():
     import argparse
+    subdir    = 'files'
     parser    = argparse.ArgumentParser()
     parser.add_argument('-n', type = str, required = True)
     args      = parser.parse_args()
-    filenames = ['files' + '/' + x for x in os.listdir('files')]
+    filenames = [subdir + '/' + x for x in os.listdir(subdir)]
     items     = []
     for filename in filenames:
       items += rFILE(filename)
@@ -41,4 +42,16 @@ if __name__ == "__main__":
   main()
 
 
-# python MediaListFilter.py -n <filename>
+# <prj>
+# |
+# |-- files
+# |   |
+# |   |-- <file_1>
+# |   |-- ...
+# |   |-- <file_n>
+# |
+# |-- <PlaylistFile>
+# |
+# |-- MediaListFilter.py
+
+# python MediaListFilter.py -n <PlaylistFile>
