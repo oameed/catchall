@@ -4,6 +4,10 @@
 
 [**The Canon**](#the-canon)  
 
+[**The Chorus**](#the-chorus)  
+
+[**The Crowd**](#the-crowd)  
+
 
 ---
 
@@ -41,12 +45,39 @@
 
 * **_Darwin_**  
 
-  [[view]](https://www.hachettebookgroup.com/titles/ernst-mayr/what-evolution-is/9780465044269/) 2002. Mayr. What Evolution Is  
   [[view]](https://oxfordworldsclassics.com/display/10.1093/owc/9780199219223.001.0001/isbn-9780199219223) 1859. _On The Origin of Species_  
 
 * **_Kuhn_** & **_Popper_**  
 
   [[view]](https://press.uchicago.edu/ucp/books/book/chicago/S/bo13179781.html) 1962. Kuhn. _The Structure of Scientific Revolutions_  
   [[view]](https://www.routledge.com/The-Logic-of-Scientific-Discovery/Popper-Popper/p/book/9780415278447#) 1935. Popper. _The logic of Scientific Discovery_  
+
+
+## <a id="the-chorus"></a>The Chorus  
+
+[[view]](https://www.sagepub.com/shop/buy-a-book/a-short-introduction-to-psychoanalysis-2-235094) 2004. Milton. _A Short Introduction to Psychoanalysis_  
+[[view]](https://www.hachettebookgroup.com/titles/ernst-mayr/what-evolution-is/9780465044269/) 2002. Mayr. _What Evolution Is_  
+[[view]](https://www.cambridge.org/core/books/cambridge-companion-to-nietzsche/0553746BCDFB36BBAD3CC80CE520A089) 1996. Higgins. _The Cambridge Companion to Nietzsche_  
+[[view]](https://www.cambridge.org/core/books/cambridge-companion-to-freud/6DAB1CECC153D1E4D5F0B56ECAB900C5) 1991. Neu. _Cambridge Companion to Freud_  
+
+
+## <a id="the-crowd"></a>The Crowd  
+
+[[view]](https://www.wiley.com/en-us/shop/general-finance-investments/stock-investing-for-dummies-7th-edition-p-9781394254583) 2024. Mladjenovic. _Stock Investing for Dummies_. 7th Edition  
+[[view]](https://www.wiley.com/en-us/shop/general-finance-investments/high-level-investing-for-dummies-p-9781119140832) 2015. Mladjenovic. _High Level Investing for Dummies_  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
