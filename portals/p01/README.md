@@ -19,11 +19,6 @@
 
 ## <a id="the-canon"></a>The Canon  
 
-* **_Nietzsche_**  
-  
-  [[view]](https://www.penguinrandomhouse.com/books/121929/basic-writings-of-nietzsche-by-friedrich-nietzsche/) 2000. Kaufmann. _Basic Writings of Nietzsche_  
-  [[view]](https://www.penguinrandomhouse.com/books/321142/the-portable-nietzsche-by-friedrich-nietzsche/) 1977. Kaufmann. _The Portable Nietzsche_  
-   
 * **_Freud_**  
 
   [**_The Revised Standard Edition of the Complete Psychological Works of Sigmund Freud_**](https://www.bloomsbury.com/us/revised-standard-edition-of-the-complete-psychological-works-of-sigmund-freud-9781538175163/)  
