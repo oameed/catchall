@@ -52,7 +52,6 @@
 
 [[view]](https://www.sagepub.com/shop/buy-a-book/a-short-introduction-to-psychoanalysis-2-235094) 2004. Milton. _A Short Introduction to Psychoanalysis_  
 [[view]](https://www.hachettebookgroup.com/titles/ernst-mayr/what-evolution-is/9780465044269/) 2002. Mayr. _What Evolution Is_  
-[[view]](https://www.cambridge.org/core/books/cambridge-companion-to-nietzsche/0553746BCDFB36BBAD3CC80CE520A089) 1996. Higgins. _The Cambridge Companion to Nietzsche_  
 [[view]](https://www.cambridge.org/core/books/cambridge-companion-to-freud/6DAB1CECC153D1E4D5F0B56ECAB900C5) 1991. Neu. _Cambridge Companion to Freud_  
 
 
