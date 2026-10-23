@@ -1,6 +1,6 @@
 # My Library
 
-[**Persian Literature**](#persian-literature)  
+[**Literature**](#literature)  
 
 [**The Canon**](#the-canon)  
 
@@ -12,9 +12,12 @@
 ---
 
 
-## <a id="persian-literature"></a>Persian Literature  
+## <a id="literature"></a>Literature  
 
 [[view]](https://www.penguinrandomhouse.com/books/301759/vis-and-ramin-by-fakhraddin-gorgani/) 2009. Davis. _Gorgani's Vis and Ramin_ [[ganjoor.net]](https://ganjoor.net/asad/veysoramin) 
+
+[[view]](https://www.penguinrandomhouse.com/books/121929/basic-writings-of-nietzsche-by-friedrich-nietzsche/) 2000. Kaufmann. _Basic Writings of Nietzsche_  
+[[view]](https://www.penguinrandomhouse.com/books/321142/the-portable-nietzsche-by-friedrich-nietzsche/) 1977. Kaufmann. _The Portable Nietzsche_  
 
 
 ## <a id="the-canon"></a>The Canon  
